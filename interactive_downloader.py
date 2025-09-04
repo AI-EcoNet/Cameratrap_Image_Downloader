@@ -18,9 +18,9 @@ import threading
 BASE_DIR = Path(__file__).resolve().parent
 
 # Define paths relative to the script location
-CATEGORIES_FILE = BASE_DIR / "categories.json"
-CATALOG_FILE = BASE_DIR / "animal_catalog.parquet"
-METADATA_FILE = BASE_DIR / "catalog_metadata.json"
+CATEGORIES_FILE = BASE_DIR / r"DataFiles\categories.json"
+CATALOG_FILE = BASE_DIR / r"DataFiles\animal_catalog.parquet"
+METADATA_FILE = BASE_DIR / r"DataFiles\catalog_metadata.json"
 OUTPUT_ROOT = BASE_DIR / "Downloads"
 
 # Networking settings
