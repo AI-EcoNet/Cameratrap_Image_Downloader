@@ -1,0 +1,4172 @@
+{
+  "Mammalia": {
+    "Mustelidae": {
+      "badger (taxidea taxus)": [
+        "badger"
+      ],
+      "ermine (mustela erminea)": [
+        "ermine"
+      ],
+      "fisher (pekania pennanti)": [
+        "fisher"
+      ],
+      "long-tailed weasel (neogale frenata)": [
+        "long-tailed weasel",
+        "mustela frenata",
+        "long-tailed_weasel"
+      ],
+      "north american river otter (lontra canadensis)": [
+        "lontra canadensis",
+        "otter"
+      ],
+      "american marten (martes americana)": [
+        "martes americana"
+      ],
+      "european badger (meles meles)": [
+        "meles meles"
+      ],
+      "beringian stoat (mustela erminea)": [
+        "mustela erminea"
+      ],
+      "giant otter (pteronura brasiliensis)": [
+        "pteronura brasiliensis",
+        "giant_otter"
+      ],
+      "neotropical otter (lontra longicaudis)": [
+        "neotropical_otter"
+      ],
+      "tayra (eira barbara)": [
+        "tayra",
+        "eira barbara",
+        "unknown_tayra"
+      ],
+      "weasel (mustela)": [
+        "unknown_weasel",
+        "unidentified_weasel"
+      ],
+      "zorilla (ictonyx striatus)": [
+        "zorillastripedpolecat",
+        "zorilla",
+        "ictonyx striatus"
+      ],
+      "honey badger (mellivora capensis)": [
+        "honey_badger",
+        "honeybadger",
+        "mellivora capensis"
+      ],
+      "back-striped weasel (mustela strigidorsa)": [
+        "back_striped_weasel"
+      ],
+      "ferret badger (melogale)": [
+        "ferret_badger"
+      ],
+      "hog badger (arctonyx collaris)": [
+        "hog_badger"
+      ],
+      "otter (lutrinae)": [
+        "unidentified_otter"
+      ],
+      "yellow-bellied weasel (mustela kathiah)": [
+        "yellow_bellied_weasel",
+        "mustela kathiah"
+      ],
+      "yellow-throated marten (martes flavigula)": [
+        "martes flavigula",
+        "yellow_throated_marten"
+      ],
+      "asian small-clawed otter (aonyx cinereus)": [
+        "aonyx cinerea"
+      ],
+      "clawless otters (aonyx)": [
+        "aonyx sp"
+      ],
+      "greater hog badger (arctonyx collaris)": [
+        "arctonyx collaris"
+      ],
+      "sumatran hog badger (arctonyx hoevenii)": [
+        "arctonyx hoevenii"
+      ],
+      "greater grison (galictis vittata)": [
+        "galictis vittata"
+      ],
+      "neotropical river otter (lontra longicaudis)": [
+        "lontra longicaudis"
+      ],
+      "bornean ferret badger (melogale everetti)": [
+        "melogale everetti"
+      ],
+      "burmese ferret badger (melogale personata)": [
+        "melogale personata"
+      ],
+      "indonesian mountain weasel (mustela lutreolina)": [
+        "mustela lutreolina"
+      ],
+      "stripe-backed weasel (mustela strigidorsa)": [
+        "mustela strigidorsa"
+      ],
+      "striped weasel (poecilogale albinucha)": [
+        "poecilogale albinucha",
+        "weaselstriped"
+      ],
+      "mustelids (mustelidae)": [
+        "mustelid"
+      ],
+      "stoat (mustela erminea)": [
+        "stoat"
+      ],
+      "least weasel (mustela nivalis)": [
+        "weasel"
+      ],
+      "ferret (mustela furo)": [
+        "ferret"
+      ],
+      "ratel (mellivora capensis)": [
+        "mellivora capensis"
+      ],
+      "american mink (neogale vison)": [
+        "american_mink"
+      ],
+      "cape clawless otter (aonyx capensis capensis)": [
+        "ottercapeclawless"
+      ]
+    },
+    "Felidae": {
+      "bobcat (lynx rufus)": [
+        "lynx rufus",
+        "bobcat"
+      ],
+      "cat (felis catus)": [
+        "cat"
+      ],
+      "mountain lion (puma concolor)": [
+        "puma concolor",
+        "mountain lion",
+        "mountain_lion"
+      ],
+      "domestic cat (felis catus)": [
+        "cat",
+        "domestic cat",
+        "felis catus"
+      ],
+      "unknown cat (felidae)": [
+        "unknown cat"
+      ],
+      "ocelot (leopardus pardalis)": [
+        "ocelot",
+        "leopardus pardalis"
+      ],
+      "jaguar (panthera onca)": [
+        "panthera onca",
+        "jaguar"
+      ],
+      "jaguarundi (herpailurus yagouaroundi)": [
+        "herpailurus yaguarondi",
+        "puma yaguaroundi",
+        "puma yagouaroundi",
+        "jaguarundi",
+        "puma yagoroundi"
+      ],
+      "margay (leopardus wiedii)": [
+        "leopardus weidii",
+        "margay",
+        "leopardus wiedii"
+      ],
+      "puma (puma)": [
+        "puma"
+      ],
+      "caracal (caracal caracal)": [
+        "caracal caracal",
+        "caracal"
+      ],
+      "cheetah (acinonyx jubatus)": [
+        "acinonyx jubatus",
+        "cheetah"
+      ],
+      "leopard (panthera pardus)": [
+        "leopard",
+        "panthera pardus"
+      ],
+      "female lion (panthera leo)": [
+        "lionfemale"
+      ],
+      "male lion (panthera leo)": [
+        "lionmale"
+      ],
+      "african wild cat (felis lybica)": [
+        "catafricanwild",
+        "africanwildcat",
+        "wildcat"
+      ],
+      "lion (panthera leo)": [
+        "lionmale",
+        "lionfemale",
+        "lioncub",
+        "panthera leo"
+      ],
+      "serval (leptailurus serval)": [
+        "leptailurus serval",
+        "serval"
+      ],
+      "asian golden cat (catopuma temminckii)": [
+        "golden_cat",
+        "pardofelis temminckii"
+      ],
+      "leopard cat (prionailurus bengalensis)": [
+        "leopard_cat"
+      ],
+      "marbled cat (pardofelis marmorata)": [
+        "marbled_cat",
+        "pardofelis marmorata"
+      ],
+      "jungle cat (felis chaus)": [
+        "felis chaus"
+      ],
+      "european wildcat (felis silvestris)": [
+        "felis silvestris"
+      ],
+      "felids (felidae)": [
+        "unknown cat",
+        "felis sp"
+      ],
+      "leopardus cats (leopardus)": [
+        "leopardus sp"
+      ],
+      "northern tigrina (leopardus tigrinus)": [
+        "leopardus tigrinus"
+      ],
+      "sunda clouded leopard (neofelis diardi)": [
+        "neofelis diardi"
+      ],
+      "mainland clouded leopard (neofelis nebulosa)": [
+        "neofelis nebulosa"
+      ],
+      "tiger (panthera tigris)": [
+        "panthera tigris"
+      ],
+      "mainland leopard cat (prionailurus bengalensis)": [
+        "prionailurus bengalensis"
+      ],
+      "african wildcat (felis lybica)": [
+        "felis lybica"
+      ],
+      "black-footed cat (felis nigripes)": [
+        "catblackfooted"
+      ],
+      "lion cub (panthera leo)": [
+        "lioncub"
+      ],
+      "lion female (panthera leo)": [
+        "lionfemale"
+      ],
+      "lion male (panthera leo)": [
+        "lionmale"
+      ]
+    },
+    "Canidae": {
+      "coyote (canis latrans)": [
+        "coyote",
+        "canis latrans"
+      ],
+      "domestic dog (canis familiaris)": [
+        "dog",
+        "dogdomestic",
+        "domestic_dog",
+        "canis familiaris",
+        "domestic dog"
+      ],
+      "gray fox (urocyon cinereoargenteus)": [
+        "fox",
+        "grey fox",
+        "urocyon cinereoargenteus"
+      ],
+      "island fox (urocyon littoralis)": [
+        "fox"
+      ],
+      "red fox (vulpes vulpes)": [
+        "red_fox",
+        "fox",
+        "vulpes vulpes",
+        "red fox"
+      ],
+      "fox (vulpes)": [
+        "fox"
+      ],
+      "unknown canid (canidae)": [
+        "unknown canid"
+      ],
+      "wolf (canis lupus)": [
+        "wolf"
+      ],
+      "gray wolf (canis lupus)": [
+        "canis lupus"
+      ],
+      "bush dog (speothos venaticus)": [
+        "bush_dog",
+        "speothos venaticus"
+      ],
+      "crab-eating fox (cerdocyon thous)": [
+        "crab-eating_fox",
+        "cerdocyon thous"
+      ],
+      "bat-eared fox (otocyon megalotis)": [
+        "otocyon megalotis",
+        "batearedfox",
+        "foxbateared"
+      ],
+      "black-backed jackal (lupulella mesomelas)": [
+        "canis mesomelas",
+        "jackal",
+        "jackalblackbacked"
+      ],
+      "cape fox (vulpes chama)": [
+        "vulpes chama",
+        "foxcape"
+      ],
+      "side-striped jackal (lupulella adusta)": [
+        "jackalsidestriped",
+        "side-striped_jackal",
+        "canis adustus"
+      ],
+      "african wild dog (lycaon pictus)": [
+        "lycaon pictus",
+        "wilddog"
+      ],
+      "short-eared dog (atelocynus microtis)": [
+        "atelocynus microtis"
+      ],
+      "dhole (cuon alpinus)": [
+        "cuon alpinus"
+      ],
+      "culpeo (lycalopex culpaeus)": [
+        "lycalopex culpaeus"
+      ],
+      "dog (canis familiaris)": [
+        "dog"
+      ],
+      "dingo (canis familiaris dingo)": [
+        "dingo"
+      ],
+      "domestic dog (canis familiaris familiaris)": [
+        "domestic_dog"
+      ]
+    },
+    "Procyonidae": {
+      "raccoon (procyon lotor)": [
+        "raccoon"
+      ],
+      "northern raccoon (procyon lotor)": [
+        "northern raccoon"
+      ],
+      "coati (nasua nasua)": [
+        "coati"
+      ],
+      "white-nosed coati (nasua narica)": [
+        "white-nosed_coati",
+        "nasua narica"
+      ],
+      "common raccoon (procyon lotor)": [
+        "procyon lotor",
+        "raccoon"
+      ],
+      "south american coati (nasua nasua)": [
+        "south_american_coati",
+        "nasua nasua"
+      ],
+      "kinkajou (potos flavus)": [
+        "potos flavus"
+      ],
+      "crab-eating raccoon (procyon cancrivorus)": [
+        "procyon cancrivorus"
+      ],
+      "coatis (nasua)": [
+        "unknown coati"
+      ]
+    },
+    "Mephitidae": {
+      "skunk (mephitidae)": [
+        "skunk"
+      ],
+      "striped skunk (mephitis mephitis)": [
+        "mephitis mephitis",
+        "striped skunk",
+        "striped_skunk"
+      ],
+      "molina's hog-nosed skunk (conepatus chinga)": [
+        "conepatus chinga"
+      ],
+      "striped hog-nosed skunk (conepatus semistriatus)": [
+        "conepatus semistriatus"
+      ],
+      "sunda stink-badger (mydaus javanensis)": [
+        "mydaus javanensis"
+      ],
+      "eastern spotted skunk (spilogale putorius)": [
+        "spilogale putorius"
+      ]
+    },
+    "Ursidae": {
+      "american black bear (ursus americanus)": [
+        "bear",
+        "american black bear",
+        "ursus americanus"
+      ],
+      "asian black bear (ursus thibetanus)": [
+        "ursus thibetanus",
+        "asiatic_black_bear"
+      ],
+      "sun bear (helarctos malayanus)": [
+        "sun_bear",
+        "helarctos malayanus"
+      ],
+      "bear (ursidae)": [
+        "unidentified_bear"
+      ],
+      "spectacled bear (tremarctos ornatus)": [
+        "tremarctos ornatus"
+      ]
+    },
+    "Phocidae": {
+      "seal (phocidae)": [
+        "seal"
+      ]
+    },
+    "Hyaenidae": {
+      "aardwolf (proteles cristatus)": [
+        "proteles cristata",
+        "aardwolf",
+        "proteles cristatus"
+      ],
+      "spotted hyena (crocuta crocuta)": [
+        "hyenaspotted",
+        "spotted_hyena",
+        "crocuta crocuta"
+      ],
+      "brown hyena (parahyaena brunnea)": [
+        "hyaena brunnea",
+        "hyenabrown"
+      ],
+      "striped hyena (hyaena hyaena)": [
+        "hyenastriped",
+        "hyaena hyaena"
+      ]
+    },
+    "Viverridae": {
+      "common small-spotted genet (genetta)": [
+        "genetcommonsmallspotted"
+      ],
+      "civet (viverridae)": [
+        "civet"
+      ],
+      "genet (genetta)": [
+        "genet"
+      ],
+      "binturong (arctictis binturong)": [
+        "binturong",
+        "arctictis binturong"
+      ],
+      "common palm civet (paradoxurus hermaphroditus)": [
+        "common_palm_civet"
+      ],
+      "large indian civet (viverra zibetha)": [
+        "large_indian_civet",
+        "viverra zibetha"
+      ],
+      "masked palm civet (paguma larvata)": [
+        "paguma larvata",
+        "masked_palm_civet"
+      ],
+      "owston's civet (chrotogale owstoni)": [
+        "chrotogale owstoni",
+        "owstons_civet"
+      ],
+      "palm civet (paradoxurinae)": [
+        "unidentified_palm_civet"
+      ],
+      "small-toothed palm civet (arctogalidia trivirgata)": [
+        "arctogalidia trivirgata"
+      ],
+      "african civet (civettictis civetta)": [
+        "african_civet",
+        "civettictis civetta"
+      ],
+      "northern small-spotted genet (genetta genetta)": [
+        "genetta genetta"
+      ],
+      "rusty-spotted genet (genetta maculata)": [
+        "genetta maculata"
+      ],
+      "servaline genet (genetta servalina)": [
+        "genetta servalina"
+      ],
+      "cape genet (genetta tigrina)": [
+        "genetta tigrina"
+      ],
+      "banded civet (hemigalus derbyanus)": [
+        "hemigalus derbyanus"
+      ],
+      "asian palm civet (paradoxurus hermaphroditus)": [
+        "paradoxurus hermaphroditus"
+      ],
+      "civets (viverridae)": [
+        "unknown civet"
+      ],
+      "small indian civet (viverricula indica)": [
+        "viverricula indica"
+      ],
+      "large-spotted genet (genetta tigrina)": [
+        "genetcapelargespotted"
+      ],
+      "small-spotted genet (genetta genetta)": [
+        "genetcommonsmallspotted"
+      ]
+    },
+    "Herpestidae": {
+      "meerkat (suricata suricatta)": [
+        "meerkat",
+        "meerkatsuricate"
+      ],
+      "large grey mongoose (herpestes ichneumon)": [
+        "mongooseegyptianlargegrey"
+      ],
+      "yellow mongoose (cynictis penicillata)": [
+        "mongooseyellow"
+      ],
+      "mongoose (herpestidae)": [
+        "mongooseunknown",
+        "mongoose"
+      ],
+      "small cape grey mongoose (herpestes pulverulentus)": [
+        "mongoosesmallcapegrey"
+      ],
+      "crab-eating mongoose (urva urva)": [
+        "crab_eating_mongoose",
+        "herpestes urva"
+      ],
+      "marsh mongoose (atilax paludinosus)": [
+        "mongoosewater",
+        "mongoosewatermarsh",
+        "atilax paludinosus"
+      ],
+      "bushy-tailed mongoose (bdeogale crassicauda)": [
+        "bdeogale crassicauda"
+      ],
+      "jackson's mongoose (bdeogale jacksoni)": [
+        "bdeogale jacksoni"
+      ],
+      "common dwarf mongoose (helogale parvula)": [
+        "helogale parvula"
+      ],
+      "slender mongoose (herpestes sanguineus)": [
+        "herpestes sanguineus",
+        "mongooseslender"
+      ],
+      "collared mongoose (urva semitorquata)": [
+        "herpestes semitorquatus"
+      ],
+      "white-tailed mongoose (ichneumia albicauda)": [
+        "mongoosewhitetailed",
+        "ichneumia albicauda"
+      ],
+      "banded mongoose (mungos mungo)": [
+        "mungos mungo",
+        "mongoosebanded"
+      ],
+      "common slender mongoose (herpestes sanguineus)": [
+        "galerella sanguinea"
+      ],
+      "cape gray mongoose (herpestes pulverulentus)": [
+        "mongoosesmallcapegrey",
+        "mongoosecapesmallgrey"
+      ],
+      "dwarf mongoose (helogale parvula)": [
+        "mongoosedwarf"
+      ],
+      "egyptian mongoose (herpestes ichneumon)": [
+        "mongooseegyptianlargegrey"
+      ]
+    },
+    "Prionodontidae": {
+      "spotted linsang (prionodon pardicolor)": [
+        "prionodon pardicolor",
+        "spotted_linsang"
+      ],
+      "banded linsang (prionodon linsang)": [
+        "prionodon linsang"
+      ]
+    },
+    "Eupleridae": {
+      "fossa (cryptoprocta ferox)": [
+        "cryptoprocta ferox"
+      ],
+      "falanouc (eupleres goudotii)": [
+        "eupleres goudotii"
+      ],
+      "fanaloka (fossa fossana)": [
+        "fossa fossana"
+      ],
+      "ring-tailed vontsira (galidia elegans)": [
+        "galidia elegans"
+      ],
+      "broad-striped vontsira (galidictis fasciata)": [
+        "galidictis fasciata"
+      ],
+      "brown-tailed vontsira (salanoia concolor)": [
+        "salanoia concolor"
+      ]
+    },
+    "Nandiniidae": {
+      "african palm-civet (nandinia binotata)": [
+        "nandinia binotata"
+      ],
+      "african palm civet (nandinia binotata)": [
+        "palm_civet"
+      ]
+    },
+    "Otariidae": {
+      "new zealand sea lion (phocarctos hookeri)": [
+        "sealion"
+      ]
+    },
+    "Unknown Family": {
+      "carnivores (carnivora)": [
+        "cn-other carnivores"
+      ],
+      "bat (chiroptera)": [
+        "unidentified_bat",
+        "bat"
+      ],
+      "bats (chiroptera)": [
+        "unknown bat"
+      ],
+      "possum (didelphimorphia)": [
+        "unknown_possum",
+        "possum"
+      ],
+      "opossum (didelphimorphia)": [
+        "unknown opossum"
+      ],
+      "rodent (rodentia)": [
+        "rodent",
+        "unidentified rodent"
+      ],
+      "mice (muroidea)": [
+        "unidentified mouse"
+      ],
+      "rodents (rodentia)": [
+        "unknown rodent",
+        "rodents"
+      ],
+      "mouse (rodentia)": [
+        "ratoncito"
+      ],
+      "ungulate (laurasiatheria)": [
+        "unknown ungulate",
+        "unidentified_ungulates"
+      ],
+      "mammal (mammalia)": [
+        "unidentified_small_mammal",
+        "unidentified_mammal",
+        "unknown_mammal"
+      ],
+      "mammals (mammalia)": [
+        "small mammal",
+        "unknown mammal"
+      ],
+      "marsupials (marsupialia)": [
+        "unknown marsupial"
+      ],
+      "rodent or shrew (mammalia)": [
+        "rodentsshrews"
+      ],
+      "small mammal (mammalia)": [
+        "small_mammal"
+      ],
+      "armadillo (cingulata)": [
+        "unknown armadillo",
+        "unknown_armadillo"
+      ]
+    },
+    "Bovidae": {
+      "cow (bos taurus)": [
+        "cow",
+        "cattle"
+      ],
+      "bighorn sheep (ovis canadensis)": [
+        "bighorn sheep"
+      ],
+      "cattle (bos taurus)": [
+        "cow",
+        "cattle"
+      ],
+      "goat (capra hircus)": [
+        "goat"
+      ],
+      "mouflon (ovis ammon)": [
+        "mouflon"
+      ],
+      "domestic cow (bos taurus)": [
+        "cow",
+        "bos taurus"
+      ],
+      "blesbok (damaliscus pygargus phillipsi)": [
+        "blesbok"
+      ],
+      "cape buffalo (syncerus caffer)": [
+        "buffalo"
+      ],
+      "common grey duiker (sylvicapra grimmia)": [
+        "duikercommongrey"
+      ],
+      "eland (tragelaphus oryx)": [
+        "tragelaphus oryx",
+        "eland"
+      ],
+      "gemsbok (oryx gazella)": [
+        "oryx gazella",
+        "gemsbokoryx",
+        "oryx"
+      ],
+      "red hartebeest (alcelaphus buselaphus caama)": [
+        "hartebeestred"
+      ],
+      "klipspringer (oreotragus oreotragus)": [
+        "oreotragus oreotragus",
+        "klipspringer"
+      ],
+      "greater kudu (tragelaphus strepsiceros)": [
+        "tragelaphus strepsiceros",
+        "greater_kudu",
+        "kudu"
+      ],
+      "mountain reedbuck (redunca fulvorufula)": [
+        "reedbuckmountain"
+      ],
+      "grey rhebok (pelea capreolus)": [
+        "rhebokgrey"
+      ],
+      "springbok (antidorcas marsupialis)": [
+        "springbok",
+        "antidorcas marsupialis"
+      ],
+      "steenbok (raphicerus campestris)": [
+        "raphiceros campestris",
+        "steenbok",
+        "raphicerus campestris"
+      ],
+      "black wildebeest (connochaetes gnou)": [
+        "wildebeestblack"
+      ],
+      "bushbuck (tragelaphus scriptus)": [
+        "bushbuck",
+        "tragelaphus scriptus"
+      ],
+      "dikdik (madoqua)": [
+        "dikdik"
+      ],
+      "duiker (cephalophus)": [
+        "duiker"
+      ],
+      "grant's gazelle (nanger granti)": [
+        "nanger granti",
+        "gazellegrants"
+      ],
+      "thomson's gazelle (eudorcas thomsonii)": [
+        "eudorcas thomsonii",
+        "gazellethomsons"
+      ],
+      "hartebeest (alcelaphus buselaphus)": [
+        "hartebeest",
+        "alcelaphus buselaphus"
+      ],
+      "impala (aepyceros melampus)": [
+        "impala",
+        "aepyceros melampus"
+      ],
+      "oribi (ourebia ourebi)": [
+        "oribi"
+      ],
+      "topi (damaliscus lunatus jimela)": [
+        "topi"
+      ],
+      "waterbuck (kobus ellipsiprymnus)": [
+        "kobus ellipsiprymnus",
+        "waterbuck"
+      ],
+      "common wildebeest (connochaetes taurinus)": [
+        "wildebeest",
+        "connochaetes taurinus"
+      ],
+      "blue wildebeest (connochaetes taurinus)": [
+        "wildebeestblue",
+        "wildebeest"
+      ],
+      "red natal duiker (cephalophus natalensis)": [
+        "duikerrednatal"
+      ],
+      "nyala (tragelaphus angasii)": [
+        "nyala"
+      ],
+      "reedbuck (redunca)": [
+        "reedbuck"
+      ],
+      "roan (hippotragus equinus)": [
+        "roan"
+      ],
+      "kudu (tragelaphus)": [
+        "kudu"
+      ],
+      "chinese serow (capricornis sumatraensis)": [
+        "chinese_serow",
+        "chinese serow",
+        "capricornis milneedwardsii"
+      ],
+      "gaur (bos gaurus)": [
+        "bos gaurus"
+      ],
+      "domestic cattle (bos taurus)": [
+        "domestic_cattle",
+        "bos taurus"
+      ],
+      "wild goat (capra aegagrus)": [
+        "capra aegagrus"
+      ],
+      "southern serow (capricornis sumatraensis)": [
+        "capricornis sumatraensis"
+      ],
+      "harvey's duiker (cephalophus harveyi)": [
+        "cephalophus harveyi"
+      ],
+      "black-fronted duiker (cephalophus nigrifrons)": [
+        "cephalophus nigrifrons"
+      ],
+      "light-backed duiker (cephalophus silvicultor)": [
+        "cephalophus silvicultor"
+      ],
+      "abbott's duiker (cephalophus spadix)": [
+        "cephalophus spadix"
+      ],
+      "red-fronted gazelle (eudorcas rufifrons)": [
+        "eudorcas rufifrons"
+      ],
+      "gerenuk (litocranius walleri)": [
+        "litocranius walleri"
+      ],
+      "günther's dik-dik (madoqua guentheri)": [
+        "madoqua guentheri"
+      ],
+      "suni (nesotragus moschatus)": [
+        "suni",
+        "nesotragus moschatus"
+      ],
+      "east african oryx (oryx beisa)": [
+        "oryx beisa"
+      ],
+      "domestic sheep (ovis aries)": [
+        "ovis aries",
+        "sheep"
+      ],
+      "blue duiker (philantomba monticola)": [
+        "philantomba monticola"
+      ],
+      "bush duiker (sylvicapra grimmia)": [
+        "sylvicapra grimmia"
+      ],
+      "african buffalo (syncerus caffer)": [
+        "syncerus caffer",
+        "buffalo"
+      ],
+      "lesser kudu (tragelaphus imberbis)": [
+        "tragelaphus imberbis"
+      ],
+      "tahr (nilgiritragus hylocrius)": [
+        "tahr"
+      ],
+      "alpine chamois (rupicapra rupicapra)": [
+        "chamois"
+      ],
+      "bontebok (damaliscus pygargus)": [
+        "bontebok"
+      ],
+      "cattle (bos)": [
+        "cattle"
+      ],
+      "dik-dik (madoqua)": [
+        "dikdik"
+      ],
+      "common duiker (sylvicapra grimmia)": [
+        "common_duiker",
+        "duikercommongrey"
+      ],
+      "red forest duiker (cephalophus natalensis)": [
+        "duikerrednatal"
+      ],
+      "domestic goat (capra hircus hircus)": [
+        "domestic_goat",
+        "goatdomestic"
+      ],
+      "grysbok (raphicerus melanotis)": [
+        "grysbok"
+      ],
+      "sharpe's grysbok (raphicerus sharpei)": [
+        "sharpes_grysbok",
+        "grysboksharpes"
+      ],
+      "sable antelope (hippotragus niger)": [
+        "sable"
+      ],
+      "tsessebe (damaliscus lunatus)": [
+        "tsessebe"
+      ],
+      "blue wildebeest (connochaetes taurinus taurinus)": [
+        "wildebeestblue"
+      ],
+      "southern reedbuck (redunca arundinum)": [
+        "southern_reedbuck"
+      ],
+      "small antelope (antilopinae)": [
+        "small_antelope"
+      ],
+      "cape bushbuck (tragelaphus sylvaticus sylvaticus)": [
+        "cape_bushbuck"
+      ],
+      "common waterbuck (kobus ellipsiprymnus ellipsiprymnus)": [
+        "common_waterbuck"
+      ],
+      "cape buffalo (syncerus caffer caffer)": [
+        "cape_buffalo"
+      ],
+      "red duiker (cephalophorus natalensis natalensis)": [
+        "red_duiker"
+      ],
+      "common eland (tragelaphus oryx)": [
+        "common_eland"
+      ],
+      "roan antelope (hippotragus equinus)": [
+        "roan"
+      ]
+    },
+    "Cervidae": {
+      "deer (odocoileus)": [
+        "deer",
+        "unidentified deer",
+        "unknown cervid"
+      ],
+      "white-tailed deer (odocoileus virginianus)": [
+        "odocoileus virginianus",
+        "white_tailed_deer",
+        "white-tailed_deer"
+      ],
+      "elk (cervus canadensis)": [
+        "cervus canadensis",
+        "elk"
+      ],
+      "moose (alces alces americanus)": [
+        "moose"
+      ],
+      "red brocket deer (mazama americana)": [
+        "red_brocket_deer"
+      ],
+      "red deer (cervus elaphus)": [
+        "red_deer",
+        "cervus elaphus"
+      ],
+      "roe deer (capreolus)": [
+        "roe_deer"
+      ],
+      "moose (alces alces)": [
+        "alces alces"
+      ],
+      "mule deer (odocoileus hemionus)": [
+        "odocoileus hemionus"
+      ],
+      "deer (cervidae)": [
+        "deer",
+        "unknown cervid",
+        "unknown_cervid",
+        "unknown deer"
+      ],
+      "fallow deer (dama dama)": [
+        "fallowdeer"
+      ],
+      "large-antlered muntjac (muntiacus vuquangensis)": [
+        "large_antlered_muntjac",
+        "muntiacus vuquangensis"
+      ],
+      "red muntjac (muntiacus muntjak)": [
+        "red_muntjac"
+      ],
+      "roosevelt's muntjac (muntiacus rooseveltorum)": [
+        "roosevelts_muntjac_group"
+      ],
+      "sambar (rusa unicolor)": [
+        "rusa unicolor",
+        "sambar"
+      ],
+      "muntjacs (muntiacus)": [
+        "muntiacus sp",
+        "unidentified_muntjac"
+      ],
+      "marsh deer (blastocerus dichotomus)": [
+        "blastocerus dichotomus"
+      ],
+      "taruca (hippocamelus antisensis)": [
+        "hippocamelus antisensis"
+      ],
+      "central american red brocket (mazama temama)": [
+        "mazama  temama",
+        "mazama temama"
+      ],
+      "red brocket (mazama americana)": [
+        "mazama americana"
+      ],
+      "dwarf brocket (mazama chunyi)": [
+        "mazama chunyi"
+      ],
+      "gray brocket (mazama gouazoubira)": [
+        "mazama gouazoubira",
+        "mazama gouazaoubira",
+        "mazama gouazoupira"
+      ],
+      "yucatán brown brocket (odocoileus pandora)": [
+        "mazama pandora"
+      ],
+      "brockets (mazama)": [
+        "mazama sp"
+      ],
+      "southern red muntjac (muntiacus muntjak)": [
+        "muntiacus muntjak"
+      ],
+      "roosevelts' muntjac (muntiacus rooseveltorum)": [
+        "muntiacus rooseveltorum"
+      ],
+      "deer (cervini)": [
+        "deer"
+      ],
+      "columbian blacktail deer (odocoileus hemionus columbianus)": [
+        "deer"
+      ]
+    },
+    "Suidae": {
+      "pig (sus scrofa)": [
+        "pig"
+      ],
+      "wild boar (sus scrofa)": [
+        "wild_boar",
+        "sus scrofa"
+      ],
+      "bushpig (potamochoerus larvatus)": [
+        "potamochoerus larvatus",
+        "bushpig"
+      ],
+      "warthog (phacochoerus africanus)": [
+        "warthog"
+      ],
+      "eurasian wild pig (sus scrofa)": [
+        "eurasian_wild_pig"
+      ],
+      "common warthog (phacochoerus africanus)": [
+        "phacochoerus africanus",
+        "common_warthog"
+      ],
+      "western bearded pig (sus barbatus)": [
+        "sus barbatus"
+      ],
+      "pigs (sus)": [
+        "sus sp",
+        "unknown pig_peccary"
+      ]
+    },
+    "Antilocapridae": {
+      "pronghorn (antilocapra americana)": [
+        "pronghorn"
+      ]
+    },
+    "Tayassuidae": {
+      "collared peccary (pecari tajacu)": [
+        "collared_peccary",
+        "tayassu tajacu",
+        "pecari tajacu"
+      ],
+      "peccary (tayassuidae)": [
+        "unknown_peccary"
+      ],
+      "white-lipped peccary (tayassu pecari)": [
+        "tayassu pecari",
+        "white-lipped_peccary"
+      ]
+    },
+    "Giraffidae": {
+      "giraffe (giraffa camelopardalis)": [
+        "giraffa camelopardalis",
+        "giraffe"
+      ]
+    },
+    "Hippopotamidae": {
+      "hippopotamus (hippopotamus amphibius)": [
+        "hippopotamus amphibius",
+        "hippopotamus"
+      ]
+    },
+    "Tragulidae": {
+      "chevrotain (moschiola meminna)": [
+        "chevrotain"
+      ],
+      "javan chevrotain (tragulus javanicus)": [
+        "tragulus javanicus"
+      ],
+      "lesser oriental chevrotain (tragulus kanchil)": [
+        "tragulus kanchil"
+      ],
+      "greater oriental chevrotain (tragulus napu)": [
+        "tragulus napu"
+      ],
+      "mouse-deer (tragulus)": [
+        "tragulus sp"
+      ]
+    },
+    "Camelidae": {
+      "dromedary camel (camelus dromedarius)": [
+        "camelus dromedarius"
+      ],
+      "alpaca (vicugna pacos)": [
+        "vicugna pacos"
+      ]
+    },
+    "Didelphidae": {
+      "virginia opossum (didelphis virginiana)": [
+        "opossum",
+        "virginia opossum",
+        "didelphis virginiana",
+        "virginia_opossum",
+        "possum"
+      ],
+      "common opossum (didelphis marsupialis)": [
+        "common_opossum"
+      ],
+      "guianan white-eared opossum (didelphis imperfecta)": [
+        "didelphis imperfecta"
+      ],
+      "southern opossum (didelphis marsupialis)": [
+        "didelphis marsupialis"
+      ],
+      "andean white-eared opossum (didelphis pernigra)": [
+        "didelphis pernigra"
+      ],
+      "american opossums (didelphis)": [
+        "didelphis sp"
+      ],
+      "little water opossum (lutreolina crassicaudata)": [
+        "lutreolina crassicaudata"
+      ],
+      "brown four-eyed opossum (metachirus nudicaudatus)": [
+        "metachirus nudicaudatus",
+        "metachirus nudicudatus"
+      ],
+      "gray four-eyed opossum (philander opossum)": [
+        "philander opossum"
+      ],
+      "gray four-eye opossum (philander opossum)": [
+        "philander oppossum"
+      ]
+    },
+    "Leporidae": {
+      "rabbits and hares (leporidae)": [
+        "unidentified rabbit",
+        "rabbit",
+        "lagomorph"
+      ],
+      "eastern cottontail (sylvilagus floridanus)": [
+        "eastern cottontail",
+        "eastern_cottontail",
+        "rabbit",
+        "sylvilagus floridanus"
+      ],
+      "european hare (lepus europaeus)": [
+        "european_hare"
+      ],
+      "snowshoe hare (lepus americanus)": [
+        "lepus americanus"
+      ],
+      "black-tailed jackrabbit (lepus californicus)": [
+        "lepus californicus"
+      ],
+      "scrub hare (lepus saxatilis)": [
+        "lepus saxatilis",
+        "scrub_hare",
+        "haresavannah",
+        "harescrub"
+      ],
+      "savannah hare (lepus victoriae)": [
+        "haresavannah"
+      ],
+      "hare (lepus)": [
+        "hareunknown",
+        "hare"
+      ],
+      "riverine rabbit (bunolagus monticularis)": [
+        "rabbitriverine"
+      ],
+      "cape hare (lepus capensis)": [
+        "lepus capensis",
+        "harecape"
+      ],
+      "red rock rabbit (pronolagus randensis)": [
+        "rabbitredrock"
+      ],
+      "annamite striped rabbit (nesolagus timminsi)": [
+        "annamite_striped_rabbit"
+      ],
+      "sumatran striped rabbit (nesolagus netscheri)": [
+        "nesolagus netscheri"
+      ],
+      "tapeti (sylvilagus brasiliensis)": [
+        "sylvilagus brasiliensis"
+      ],
+      "rabbit (leporidae)": [
+        "rabbit"
+      ],
+      "european rabbit (oryctolagus cuniculus)": [
+        "rabbit"
+      ],
+      "brown hare (lepus europaeus)": [
+        "hare"
+      ],
+      "jameson's red rockhare (pronolagus randensis)": [
+        "pronolagus randensis"
+      ],
+      "red rock hare (pronolagus randensis)": [
+        "rabbitredrock"
+      ]
+    },
+    "Sciuridae": {
+      "squirrel (sciurus)": [
+        "unidentified_squirrel",
+        "squirrel",
+        "sciurus sp"
+      ],
+      "eastern chipmunk (tamias striatus)": [
+        "eastern chipmunk",
+        "eastern_chipmunk"
+      ],
+      "eastern fox squirrel (sciurus niger cinereus)": [
+        "eastern fox squirrel"
+      ],
+      "eastern gray squirrel (sciurus carolinensis)": [
+        "sciurus carolinensis",
+        "eastern gray squirrel"
+      ],
+      "woodchuck (marmota monax)": [
+        "woodchuck"
+      ],
+      "red squirrel (tamiasciurus hudsonicus)": [
+        "red_squirrel"
+      ],
+      "yellow-bellied marmot (marmota flaviventris)": [
+        "marmota flaviventris"
+      ],
+      "california ground squirrel (otospermophilus beecheyi)": [
+        "otospermophilus beecheyi"
+      ],
+      "fox squirrel (sciurus niger)": [
+        "sciurus niger"
+      ],
+      "american red squirrel (tamiasciurus hudsonicus)": [
+        "tamiasciurus hudsonicus"
+      ],
+      "chipmunk (tamias)": [
+        "unidentified chipmunk"
+      ],
+      "tree squirrels (sciurus)": [
+        "unidentified sciurus"
+      ],
+      "northern amazon red squirrel (sciurus igniventris)": [
+        "northern_amazon_red_squirrel",
+        "sciurus igniventris"
+      ],
+      "african ground squirrel (xerus)": [
+        "groundsquirrel"
+      ],
+      "black giant squirrel (ratufa bicolor)": [
+        "ratufa bicolor",
+        "black_giant_squirrel"
+      ],
+      "flying squirrel (pteromyini)": [
+        "flying_squirrel"
+      ],
+      "giant flying squirrel (petaurista)": [
+        "giant_flying_squirrel"
+      ],
+      "pallas's squirrel (callosciurus erythraeus)": [
+        "pallass_squirrel"
+      ],
+      "red-cheeked squirrel (dremomys rufigenis)": [
+        "red_cheeked_squirrel"
+      ],
+      "asian striped squirrels (tamiops)": [
+        "unidentified_striped_squirrel"
+      ],
+      "pallas' squirrel (callosciurus erythraeus)": [
+        "callosciurus erythraeus"
+      ],
+      "plantain squirrel (callosciurus notatus)": [
+        "callosciurus notatus"
+      ],
+      "asian red-cheeked squirrel (dremomys rufigenis)": [
+        "dremomys rufigenis"
+      ],
+      "carruther's mountain squirrel (funisciurus carruthersi)": [
+        "funisciurus carruthersi"
+      ],
+      "fire-footed rope squirrel (funisciurus pyrropus)": [
+        "funisciurus pyrropus"
+      ],
+      "red-legged sun squirrel (heliosciurus rufobrachium)": [
+        "heliosciurus rufobrachium"
+      ],
+      "ruwenzori sun squirrel (heliosciurus ruwenzorii)": [
+        "heliosciurus ruwenzorii"
+      ],
+      "particolored flying squirrel (hylopetes alboniger)": [
+        "hylopetes alboniger"
+      ],
+      "three-striped ground squirrel (lariscus insignis)": [
+        "lariscus insignis"
+      ],
+      "amazon dwarf squirrel (microsciurus flaviventer)": [
+        "microsciurus flaviventer"
+      ],
+      "western dwarf squirrel (microsciurus mimulus)": [
+        "microsciurus mimulus"
+      ],
+      "boehm's bush squirrel (paraxerus boehmi)": [
+        "paraxerus boehmi"
+      ],
+      "smith's bush squirrel (paraxerus cepapi)": [
+        "paraxerus cepapi"
+      ],
+      "black-and-red bush squirrel (paraxerus lucifer)": [
+        "paraxerus lucifer"
+      ],
+      "ochre bush squirrel (paraxerus ochraceus)": [
+        "paraxerus ochraceus"
+      ],
+      "swynnerton's bush squirrel (paraxerus vexillarius)": [
+        "paraxerus vexillarius"
+      ],
+      "forest giant squirrel (protoxerus stangeri)": [
+        "protoxerus stangeri"
+      ],
+      "deppe's squirrel (sciurus deppei)": [
+        "sciurus deppei"
+      ],
+      "red-tailed squirrel (sciurus granatensis)": [
+        "sciurus gramatensis"
+      ],
+      "bolivian squirrel (sciurus ignitus)": [
+        "sciurus ignitus"
+      ],
+      "southern amazon red squirrel (sciurus spadiceus)": [
+        "sciurus spadiceus"
+      ],
+      "horse-tailed squirrel (sundasciurus hippurus)": [
+        "sundasciurus hippurus"
+      ],
+      "squirrels (sciuridae)": [
+        "unknown squirrel"
+      ],
+      "striped ground squirrel (euxerus erythropus)": [
+        "xerus erythropus"
+      ],
+      "unstriped ground squirrel (xerus rutilus)": [
+        "xerus rutilus",
+        "xerus rutilis"
+      ],
+      "ground squirrel (sciuridae)": [
+        "groundsquirrel",
+        "squirreltree",
+        "squirrelground"
+      ],
+      "squirrel (sciuridae)": [
+        "squirrel"
+      ]
+    },
+    "Erethizontidae": {
+      "porcupine (erethizon dorsatum)": [
+        "porcupine"
+      ],
+      "north american porcupine (erethizon dorsatum)": [
+        "erethizon dorsatum"
+      ],
+      "bicolor-spined porcupine (coendou bicolor)": [
+        "coendou bicolor"
+      ]
+    },
+    "Muridae": {
+      "rat (rattus)": [
+        "rat"
+      ],
+      "spiny rat (rattus praetor)": [
+        "spiny_rat"
+      ],
+      "wood mouse (apodemus sylvaticus)": [
+        "wood_mouse"
+      ],
+      "black rat (rattus rattus)": [
+        "rattus rattus"
+      ],
+      "old-world mice and rats (muridae)": [
+        "unidentified_murid"
+      ],
+      "african water rat (colomys goslingi)": [
+        "colomys goslingi"
+      ],
+      "congo forest mouse (deomys ferrugineus)": [
+        "deomys ferrugineus"
+      ],
+      "one-striped forest mouse (hybomys univittatus)": [
+        "hybomys univittatus"
+      ],
+      "stella wood mouse (hylomyscus stella)": [
+        "hylomyscus stella"
+      ],
+      "big-eared swamp rat (malacomys longipes)": [
+        "malacomys longipes"
+      ],
+      "tiny pygmy mouse (mus minutoides)": [
+        "mus minutoides"
+      ],
+      "common rufous-nosed rat (oenomys hypoxanthus)": [
+        "oenomys hypoxanthus"
+      ],
+      "tullberg's praomys (praomys tullbergi)": [
+        "praomys tullbergi"
+      ],
+      "malayan field rat (rattus tiomanicus)": [
+        "rattus tiomanicus sabae"
+      ],
+      "charming thicket rat (thamnomys venustus)": [
+        "thamnomys venustus"
+      ],
+      "mice, rats, and gerbils (muridae)": [
+        "unknown mouse or rat"
+      ],
+      "rodent (rattus)": [
+        "unknown rat"
+      ],
+      "mouse (mus)": [
+        "mouse"
+      ],
+      "norway rat (rattus norvegicus)": [
+        "norway rat"
+      ],
+      "ship rat (rattus rattus)": [
+        "ship rat"
+      ],
+      "brown rat (rattus norvegicus)": [
+        "brown_rat"
+      ]
+    },
+    "Dasyproctidae": {
+      "agouti (dasyprocta)": [
+        "agouti"
+      ],
+      "coiban agouti (dasyprocta coibae)": [
+        "coiban_agouti"
+      ],
+      "black agouti (dasyprocta fuliginosa)": [
+        "dasyprocta fuliginosa",
+        "black_agouti"
+      ],
+      "orinoco agouti (dasyprocta guamara)": [
+        "orinoco_agouti"
+      ],
+      "central american agouti (dasyprocta punctata)": [
+        "dasiprocta punctata",
+        "dasyprocta punctata"
+      ],
+      "red-rumped agouti (dasyprocta leporina)": [
+        "dasyprocta leporina"
+      ],
+      "green acouchi (myoprocta pratti)": [
+        "myoprocta pratii",
+        "myoprocta pratti"
+      ]
+    },
+    "Cuniculidae": {
+      "paca (cuniculus)": [
+        "paca"
+      ],
+      "spotted paca (cuniculus paca)": [
+        "spotted_paca",
+        "cuniculus paca"
+      ],
+      "lowland paca (cuniculus paca)": [
+        "agouti paca"
+      ],
+      "mountain paca (cuniculus taczanowskii)": [
+        "cuniculus taczanowskii"
+      ]
+    },
+    "Cricetidae": {
+      "deermice (peromyscus)": [
+        "peromyscus sp",
+        "unidentified deer mouse"
+      ],
+      "pack rat (neotoma)": [
+        "unidentified pack rat"
+      ],
+      "meadow vole (microtus pennsylvanicus)": [
+        "meadow_vole"
+      ],
+      "white-footed mouse (peromyscus leucopus)": [
+        "white-footed_mouse"
+      ]
+    },
+    "Geomyidae": {
+      "gophers (geomyidae)": [
+        "unidentified pocket gopher"
+      ]
+    },
+    "Caviidae": {
+      "capybara (hydrochoerus hydrochaeris)": [
+        "hydrochoerus hydrochaeris",
+        "capybara"
+      ],
+      "brazilian guinea pig (cavia aperea)": [
+        "cavia aperea"
+      ]
+    },
+    "Pedetidae": {
+      "springhare (pedetes capensis)": [
+        "harespring",
+        "springhare"
+      ]
+    },
+    "Hystricidae": {
+      "cape porcupine (hystrix africaeaustralis)": [
+        "porcupine",
+        "hystrix africaeaustralis",
+        "cape_porcupine"
+      ],
+      "crested porcupine (hystrix cristata)": [
+        "hystrix cristata",
+        "porcupine"
+      ],
+      "asiatic brush-tailed porcupine (atherurus macrourus)": [
+        "asiatic_brush_tailed_porcupine"
+      ],
+      "malayan porcupine (hystrix brachyura)": [
+        "malayan_porcupine"
+      ],
+      "african brush-tailed porcupine (atherurus africanus)": [
+        "atherurus africanus"
+      ],
+      "asian brush-tailed porcupine (atherurus macrourus)": [
+        "atherurus macrourus"
+      ],
+      "east asian porcupine (hystrix brachyura)": [
+        "hystrix brachyura"
+      ],
+      "long-tailed porcupine (trichys fasciculata)": [
+        "trichys fasciculata"
+      ],
+      "porcupine (hystricidae)": [
+        "unknown porcupine"
+      ]
+    },
+    "Echimyidae": {
+      "bamboo rat (dactylomys)": [
+        "bamboo_rat"
+      ],
+      "south american spiny rats (proechimys)": [
+        "proechimys sp",
+        "proechimys"
+      ]
+    },
+    "Anomaluridae": {
+      "derby's anomalure (anomalurus derbianus)": [
+        "anomalurus derbianus"
+      ]
+    },
+    "Nesomyidae": {
+      "african giant pouched rat (cricetomys gambianus)": [
+        "cricetomys gambianus"
+      ],
+      "white-tipped tufted-tailed rat (eliurus penicillatus)": [
+        "eliurus penicillatus"
+      ],
+      "petter's tuft-tailed rat (eliurus petteri)": [
+        "eliurus petteri"
+      ],
+      "eliurus rat (eliurus)": [
+        "eliurus sp",
+        "eliurus spp"
+      ],
+      "webb's tufted-tailed rat (eliurus webbi)": [
+        "eliurus webbi"
+      ],
+      "malagasy giant rat (hypogeomys antimena)": [
+        "hypogeomys antimena"
+      ],
+      "white-bellied nesomys (nesomys audeberti)": [
+        "nesomys audeberti"
+      ],
+      "nesomys rodents (nesomys)": [
+        "nesomys sp"
+      ],
+      "tufted-tailed rats (eliurus)": [
+        "tufted tailed rat"
+      ]
+    },
+    "Chinchillidae": {
+      "mountain viscacha (lagidium viscacia)": [
+        "lagidium viscacia"
+      ]
+    },
+    "Spalacidae": {
+      "large bamboo rats (rhizomys)": [
+        "rhizomys sp"
+      ],
+      "indomalayan bamboo rat (rhizomys sumatrensis)": [
+        "rhizomys sumatrensis"
+      ]
+    },
+    "Thryonomyidae": {
+      "lesser cane rat (thryonomys gregorianus)": [
+        "thryonomys gregorianus"
+      ],
+      "greater cane rat (thryonomys swinderianus)": [
+        "thryonomys swinderianus"
+      ]
+    },
+    "Zapodidae": {
+      "meadow jumping mouse (zapus hudsonius)": [
+        "meadow_jumping_mouse"
+      ],
+      "woodland jumping mouse (napaeozapus insignis)": [
+        "woodland_jumping_mouse"
+      ]
+    },
+    "Hominidae": {
+      "human (homo sapiens)": [
+        "human",
+        "dan"
+      ],
+      "chimpanzee (pan troglodytes)": [
+        "pan troglodytes"
+      ]
+    },
+    "Cebidae": {
+      "margarita island capuchin (sapajus apella margaritae)": [
+        "margarita_island_capuchin"
+      ],
+      "capuchin monkey (cebinae)": [
+        "unknown_capuchin_monkey"
+      ],
+      "squirrel monkey (saimiri)": [
+        "unknown_squirrel_monkey"
+      ],
+      "white-fronted capuchin (cebus albifrons)": [
+        "cebus albifrons"
+      ],
+      "tufted capuchin (sapajus apella)": [
+        "cebus apella"
+      ],
+      "black-capped squirrel monkey (saimiri boliviensis)": [
+        "saimiri boliviensis"
+      ],
+      "brown capuchin (sapajus apella)": [
+        "sapajus apella"
+      ]
+    },
+    "Pitheciidae": {
+      "ornate titi (plecturocebus ornatus)": [
+        "ornate_titi_monkey"
+      ]
+    },
+    "Atelidae": {
+      "howler monkey (alouatta)": [
+        "unknown_howler_monkey"
+      ],
+      "bolivian red howler monkey (alouatta sara)": [
+        "alouatta sara"
+      ],
+      "black-faced black spider monkey (ateles chamek)": [
+        "ateles chamek"
+      ]
+    },
+    "Cercopithecidae": {
+      "baboon (papio)": [
+        "baboon"
+      ],
+      "vervet monkey (chlorocebus pygerythrus)": [
+        "chlorocebus pygerythrus",
+        "monkeyvervet",
+        "vervet_monkey"
+      ],
+      "macaques (macaca)": [
+        "assam_or_rhesus_macaque"
+      ],
+      "francois' langur (trachypithecus francoisi)": [
+        "francois_langur"
+      ],
+      "hatinh langur (trachypithecus hatinhensis)": [
+        "hatinh_langur"
+      ],
+      "macaque (macaca)": [
+        "macaque_not_stump_tailed",
+        "unidentified_macaque"
+      ],
+      "phayre's langur (trachypithecus phayrei)": [
+        "phayres_langur"
+      ],
+      "pig-tailed macaque (macaca nemestrina)": [
+        "pig_tailed_macaque"
+      ],
+      "red-shanked douc (pygathrix nemaeus)": [
+        "red_shanked_douc"
+      ],
+      "stump-tailed macaque (macaca arctoides)": [
+        "stump_tailed_macaque",
+        "macaca arctoides"
+      ],
+      "sanje mangabey (cercocebus sanjei)": [
+        "cercocebus sanjei"
+      ],
+      "sykes  monkey (cercopithecus erythrogaster)": [
+        "cercopithecus albogularis"
+      ],
+      "l'hoest's monkey (allochrocebus lhoesti)": [
+        "cercopithecus lhoesti"
+      ],
+      "blue monkey (cercopithecus mitis)": [
+        "cercopithecus mitis",
+        "blue_monkey"
+      ],
+      "angola colobus (colobus angolensis)": [
+        "colobus angolensis"
+      ],
+      "patas monkey (erythrocebus patas)": [
+        "erythrocebus patas"
+      ],
+      "assam macaque (macaca assamensis)": [
+        "macaca assamensis"
+      ],
+      "crab-eating macaque (macaca fascicularis)": [
+        "macaca fascicularis"
+      ],
+      "rhesus macaque (macaca mulatta)": [
+        "macaca mulatta"
+      ],
+      "southern pig-tailed macaque (macaca nemestrina)": [
+        "macaca nemestrina"
+      ],
+      "olive baboon (papio anubis)": [
+        "papio anubis"
+      ],
+      "yellow baboon (papio cynocephalus)": [
+        "papio cynocephalus",
+        "yellow_baboon"
+      ],
+      "banded surili (presbytis femoralis)": [
+        "presbytis femoralis"
+      ],
+      "surilis (presbytis)": [
+        "presbytis sp"
+      ],
+      "thomas’s langur (presbytis thomasi)": [
+        "presbytis thomasi"
+      ],
+      "udzungwa red colobus (piliocolobus gordonorum)": [
+        "procolobus gordonorum"
+      ],
+      "sykes' monkey (cercopithecus mitis albogularis)": [
+        "monkeysamango"
+      ]
+    },
+    "Hylobatidae": {
+      "gibbon (hylobatidae)": [
+        "gibbon"
+      ]
+    },
+    "Daubentoniidae": {
+      "aye-aye (daubentonia madagascariensis)": [
+        "daubentonia madagascariensis"
+      ]
+    },
+    "Lemuridae": {
+      "white-fronted brown lemur (eulemur albifrons)": [
+        "eulemur albifrons"
+      ],
+      "ring-tailed lemurs (lemur)": [
+        "lemur"
+      ]
+    },
+    "Galagidae": {
+      "northern lesser galago (galago senegalensis)": [
+        "galago senegalensis"
+      ],
+      "small-eared greater galago (otolemur garnettii)": [
+        "otolemur garnettii"
+      ],
+      "bushbaby (galagidae)": [
+        "bushbaby"
+      ],
+      "lesser bushbabies (galago)": [
+        "galago"
+      ]
+    },
+    "Cheirogaleidae": {
+      "grey mouse lemur (microcebus murinus)": [
+        "microcebus murinus"
+      ]
+    },
+    "Indriidae": {
+      "silky sifaka (propithecus candidus)": [
+        "propithecus candidus"
+      ]
+    },
+    "Equidae": {
+      "horse (equus caballus)": [
+        "horse"
+      ],
+      "donkey (equus asinus)": [
+        "equus asinus",
+        "donkey"
+      ],
+      "african wild ass (equus africanus)": [
+        "equus africanus"
+      ],
+      "wild horse (equus ferus)": [
+        "equus ferus"
+      ],
+      "domestic horse (equus caballus)": [
+        "domestic_horse",
+        "horsedomestic",
+        "equus caballus"
+      ],
+      "mountain zebra (equus zebra)": [
+        "zebramountain"
+      ],
+      "plains zebra (equus quagga)": [
+        "zebraplains",
+        "zebra",
+        "plains_zebra",
+        "equus quagga"
+      ],
+      "burchell's zebra (equus quagga burchellii)": [
+        "zebraburchells"
+      ],
+      "grévy's zebra (equus grevyi)": [
+        "equus grevyi"
+      ],
+      "hartmann's mountain zebra (equus zebra hartmannae)": [
+        "equus zebra hartmannae"
+      ]
+    },
+    "Tapiridae": {
+      "lowland tapir (tapirus terrestris)": [
+        "lowland_tapir"
+      ],
+      "baird's tapir (tapirus bairdii)": [
+        "tapirus bairdii"
+      ],
+      "malayan tapir (tapirus indicus)": [
+        "tapirus indicus"
+      ],
+      "south american tapir (tapirus terrestris)": [
+        "tapirus terrestris"
+      ]
+    },
+    "Rhinocerotidae": {
+      "rhinoceros (rhinocerotidae)": [
+        "rhinoceros"
+      ],
+      "black rhinoceros (diceros bicornis)": [
+        "rhinocerosblack",
+        "diceros bicornis"
+      ],
+      "white rhinoceros (ceratotherium simum)": [
+        "ceratotherium simum",
+        "rhinoceroswhite"
+      ],
+      "sumatran rhinoceros (dicerorhinus sumatrensis)": [
+        "dicerorhinus sumatrensis"
+      ],
+      "unknown rhinoceros (rhinocerotidae)": [
+        "rhinocerosunknown"
+      ]
+    },
+    "Dasypodidae": {
+      "nine-banded armadillo (dasypus novemcinctus)": [
+        "dasypus novemcinctus"
+      ],
+      "greater long-nosed armadillo (dasypus kappleri)": [
+        "dasypus kappleri"
+      ]
+    },
+    "Chlamyphoridae": {
+      "giant armadillo (priodontes maximus)": [
+        "priodontes maximus",
+        "giant_armadillo"
+      ],
+      "northern naked-tailed armadillo (cabassous centralis)": [
+        "cabassous centralis"
+      ],
+      "southern naked-tailed armadillo (cabassous unicinctus)": [
+        "cabassous unicinctus",
+        "cabassous unicintus"
+      ],
+      "six-banded armadillo (euphractus sexcinctus)": [
+        "euphractus sexcinctus"
+      ],
+      "southern three-banded armadillo (tolypeutes matacus)": [
+        "tolypeutes matacus"
+      ]
+    },
+    "Myrmecophagidae": {
+      "giant anteater (myrmecophaga tridactyla)": [
+        "giant_anteater",
+        "myrmecophaga tridactyla"
+      ],
+      "southern tamandua (tamandua tetradactyla)": [
+        "tamandua tetradactyla",
+        "southern_tamandua"
+      ],
+      "northern tamandua (tamandua mexicana)": [
+        "tamandua mexicana"
+      ]
+    },
+    "Orycteropodidae": {
+      "aardvark (orycteropus afer)": [
+        "aardvark",
+        "orycteropus afer",
+        "aardvarkantbear"
+      ],
+      "aardvard (orycteropus afer)": [
+        "aardvarkantbear"
+      ]
+    },
+    "Elephantidae": {
+      "african bush elephant (loxodonta africana)": [
+        "loxodonta africana",
+        "elephant"
+      ],
+      "asian elephant (elephas maximus)": [
+        "elephas maximus"
+      ],
+      "african elephant (loxodonta africana)": [
+        "loxodanta africana"
+      ],
+      "african savanna elephant (loxodonta africana)": [
+        "african_savanna_elephant"
+      ]
+    },
+    "Manidae": {
+      "pangolin (manidae)": [
+        "pangolin"
+      ],
+      "asian pangolins (manis)": [
+        "pangolin"
+      ],
+      "sunda pangolin (manis javanica)": [
+        "manis javanica"
+      ]
+    },
+    "Tupaiidae": {
+      "northern treeshrew (tupaia belangeri)": [
+        "tupaia belangeri",
+        "northern_treeshrew"
+      ],
+      "common treeshrew (tupaia glis)": [
+        "tupaia glis"
+      ],
+      "treeshrews (tupaia)": [
+        "tupaia sp"
+      ]
+    },
+    "Erinaceidae": {
+      "four-toed hedgehog (atelerix albiventris)": [
+        "atelerix albiventris"
+      ],
+      "hedgehog (erinaceus europaeus)": [
+        "hedgehog"
+      ],
+      "european hedgehog (erinaceus europaeus europaeus)": [
+        "hedgehog"
+      ]
+    },
+    "Soricidae": {
+      "asian house shrew (suncus murinus)": [
+        "suncus murinus"
+      ],
+      "shrews (soricidae)": [
+        "unknown shrew"
+      ],
+      "masked shrew (sorex cinereus)": [
+        "masked_shrew"
+      ],
+      "northern short-tailed shrew (blarina brevicauda)": [
+        "n._short-tailed_shrew"
+      ]
+    },
+    "Talpidae": {
+      "star-nosed mole (condylura cristata)": [
+        "star-nosed_mole"
+      ]
+    },
+    "Procaviidae": {
+      "southern tree hyrax (dendrohyrax arboreus)": [
+        "dendrohyrax arboreus"
+      ],
+      "yellow-spotted rock hyrax (heterohyrax brucei)": [
+        "heterohyrax brucei"
+      ],
+      "rock hyrax (procavia capensis)": [
+        "rockhyraxdassie",
+        "procavia capensis"
+      ]
+    },
+    "Tenrecidae": {
+      "lowland streaked tenrec (hemicentetes semispinosus)": [
+        "hemicentetes semispinosus"
+      ],
+      "tenrecs (microgale)": [
+        "microgale sp"
+      ],
+      "greater hedgehog tenrec (setifer setosus)": [
+        "setifer sp"
+      ],
+      "tenrecs (tenrec)": [
+        "tenrec"
+      ],
+      "tailless tenrec (tenrec ecaudatus)": [
+        "tenrec ecaudatus"
+      ]
+    },
+    "Macroscelididae": {
+      "four-toed sengi (petrodromus tetradactylus)": [
+        "petrodromus tetradactylus"
+      ],
+      "checkered sengi (rhynchocyon cirnei)": [
+        "rhynchocyon cirnei"
+      ],
+      "black-and-rufous sengi (rhynchocyon petersi)": [
+        "rhynchocyon petersi"
+      ],
+      "grey-faced sengi (rhynchocyon udzungwensis)": [
+        "rhynchocyon udzungwensis"
+      ]
+    },
+    "Phalangeridae": {
+      "common brushtail possum (trichosurus vulpecula)": [
+        "possum"
+      ]
+    },
+    "Macropodidae": {
+      "wallaby (notamacropus)": [
+        "wallaby"
+      ]
+    },
+    "Dasyuridae": {
+      "spotted-tailed quoll (dasyurus maculatus)": [
+        "quoll"
+      ]
+    }
+  },
+  "Aves": {
+    "Unknown Order": {
+      "Unknown Family": {
+        "bird (aves)": [
+          "otherbird",
+          "birdother",
+          "bird_spec",
+          "unidentified_bird",
+          "unknown bird",
+          "ave desconocida",
+          "bird",
+          "unknown_bird"
+        ],
+        "bird of prey (aves)": [
+          "birdsofprey",
+          "unknown bird of prey",
+          "birdofprey"
+        ],
+        "birds (aves)": [
+          "aves",
+          "unknown raptor",
+          "unidentified bird"
+        ],
+        "raptor (aves)": [
+          "cn-raptors"
+        ]
+      }
+    },
+    "Passeriformes": {
+      "Corvidae": {
+        "american crow (corvus brachyrhynchos)": [
+          "corvus brachyrhynchos",
+          "american crow",
+          "crow"
+        ],
+        "clark's nutcracker (nucifraga columbiana)": [
+          "clark's nutcracker"
+        ],
+        "black-billed magpie (pica hudsonia)": [
+          "magpie"
+        ],
+        "raven (corvus corax)": [
+          "raven"
+        ],
+        "steller's jay (cyanocitta stelleri)": [
+          "cyanocitta stelleri"
+        ],
+        "canada jay (perisoreus canadensis)": [
+          "perisoreus canadensis"
+        ],
+        "crows and ravens (corvus)": [
+          "unidentified corvus"
+        ],
+        "common green magpie (cissa chinensis)": [
+          "common_green_magpie"
+        ],
+        "indochinese green magpie (cissa hypoleuca)": [
+          "indochinese_green_magpie"
+        ],
+        "white-winged magpie (urocissa whiteheadi)": [
+          "white-winged_magpie"
+        ],
+        "common green-magpie (cissa chinensis)": [
+          "cissa chinensis"
+        ],
+        "sumatran treepie (dendrocitta occipitalis)": [
+          "dendrocitta occipitalas",
+          "dendrocitta occipitalis"
+        ],
+        "pied crow (corvus albus)": [
+          "corvus albus"
+        ],
+        "cape crow (corvus capensis)": [
+          "corvus capensis"
+        ]
+      },
+      "Turdidae": {
+        "bluebird (sialia)": [
+          "bluebird"
+        ],
+        "varied thrush (ixoreus naevius)": [
+          "varied_thrush",
+          "varied thrush"
+        ],
+        "thrush (turdus)": [
+          "zorzal"
+        ],
+        "eyebrowed thrush (turdus obscurus)": [
+          "eyebrowed_thrush"
+        ],
+        "japanese thrush (turdus cardis)": [
+          "japanese_thrush"
+        ],
+        "orange-headed thrush (geokichla citrina)": [
+          "orange_headed_thrush",
+          "geokichla citrina"
+        ],
+        "scaly thrush (zoothera dauma dauma)": [
+          "scaly_thrush"
+        ],
+        "siberian thrush (geokichla sibirica)": [
+          "siberian_thrush"
+        ],
+        "wood thrush (hylocichla mustelina)": [
+          "catharus mustelinus"
+        ],
+        "thrushes (catharus)": [
+          "catharus sp"
+        ],
+        "swainson's thrush (catharus ustulatus)": [
+          "catharus ustulatus"
+        ],
+        "orange ground-thrush (geokichla gurneyi)": [
+          "geokichla gurneyi"
+        ],
+        "red-tailed ant-thrush (neocossyphus rufus)": [
+          "neocossyphus rufus"
+        ],
+        "black-billed thrush (turdus ignobilis)": [
+          "turdus ignobilis"
+        ],
+        "olive thrush (turdus olivaceus)": [
+          "turdus olivaceus"
+        ],
+        "true thrushes (turdus)": [
+          "turdus sp"
+        ],
+        "african bare-eyed thrush (turdus tephronotus)": [
+          "turdus tephronotus"
+        ],
+        "asian thrushes (zoothera)": [
+          "zoothera",
+          "zoothera sp"
+        ],
+        "scaly thrush (zoothera dauma)": [
+          "zoothera dauma"
+        ],
+        "eurasian blackbird (turdus merula)": [
+          "blackbird"
+        ],
+        "song thrush (turdus philomelos)": [
+          "thrush"
+        ],
+        "eastern bluebird (sialia sialis)": [
+          "eastern_bluebird"
+        ],
+        "american robin (turdus migratorius)": [
+          "robin"
+        ]
+      },
+      "Sittidae": {
+        "red-breasted nuthatch (sitta canadensis)": [
+          "red-breasted nuthatch"
+        ]
+      },
+      "Parulidae": {
+        "warbler (parulidae)": [
+          "warbler"
+        ],
+        "common yellowthroat (geothlypis trichas)": [
+          "common_yellowthroat"
+        ]
+      },
+      "Cardinalidae": {
+        "western tanager (piranga ludoviciana)": [
+          "western tanager"
+        ],
+        "indigo bunting (passerina cyanea)": [
+          "indigo_bunting"
+        ]
+      },
+      "Mimidae": {
+        "mockingbird (mimidae)": [
+          "mockingbird"
+        ],
+        "gray catbird (dumetella carolinensis)": [
+          "gray_catbird"
+        ]
+      },
+      "Unknown Family": {
+        "songbirds (passeriformes)": [
+          "passerine"
+        ],
+        "sparrow (passeriformes)": [
+          "sparrow"
+        ]
+      },
+      "Passerellidae": {
+        "dark-eyed junco (junco hyemalis)": [
+          "junco",
+          "junco hyemalis"
+        ],
+        "green-backed sparrow (arremonops chloronotus)": [
+          "arremonops chloronotus"
+        ],
+        "rufous-collared sparrow (zonotrichia capensis)": [
+          "zonatrichia capensis"
+        ],
+        "song sparrow (melospiza melodia)": [
+          "song_sparrow"
+        ],
+        "spotted towhee (pipilo maculatus)": [
+          "spotted_towhee"
+        ]
+      },
+      "Troglodytidae": {
+        "house wren (troglodytes aedon)": [
+          "troglodytes aedon"
+        ],
+        "northern house wren (troglodytes aedon aedon)": [
+          "northern_house_wren"
+        ]
+      },
+      "Irenidae": {
+        "asian fairy-bluebird (irena puella)": [
+          "asian_fairy_bluebird"
+        ]
+      },
+      "Pittidae": {
+        "bar-bellied pitta (hydrornis elliotii)": [
+          "bar_bellied_pitta"
+        ],
+        "blue pitta (hydrornis cyaneus)": [
+          "blue_pitta",
+          "hydrornis cyaneus",
+          "pitta cyanea"
+        ],
+        "typical pittas (pitta)": [
+          "unidentified_pitta"
+        ],
+        "rusty-naped pitta (hydrornis oatesi)": [
+          "hydrornis oatesi"
+        ],
+        "banded pitta (hydrornis guajanus)": [
+          "pitta guajana"
+        ],
+        "schneider's pitta (hydrornis schneideri)": [
+          "pitta schneideri"
+        ]
+      },
+      "Leiothrichidae": {
+        "black-throated laughingthrush (pterorhinus chinensis)": [
+          "black_throated_laughingthrush"
+        ],
+        "gray laughingthrush (garrulax maesi)": [
+          "gray_laughingthrush"
+        ],
+        "laughingthrush (leiothrichidae)": [
+          "laughingthrush"
+        ],
+        "necklaced laughingthrush (pterorhinus pectoralis)": [
+          "necklaced_laughingthrush_sp"
+        ],
+        "red-tailed laughingthrush (trochalopteron milnei)": [
+          "trochalopteron milnei",
+          "red_tailed_laughingthrush"
+        ],
+        "rufous-cheeked laughingthrush (garrulax castanotis)": [
+          "rufous_cheeked_laughingthrush"
+        ],
+        "rufous-eared laughingthrush (ianthocincla konkakinhensis)": [
+          "rufous_eared_laughingthrush"
+        ],
+        "silver-eared mesia (leiothrix argentauris)": [
+          "leiothrix argentauris",
+          "silver_eared_mesia"
+        ]
+      },
+      "Muscicapidae": {
+        "blue-fronted robin (cinclidium frontale)": [
+          "blue_fronted_robin"
+        ],
+        "blue whistling thrush (myophonus caeruleus)": [
+          "blue_whistling_thrush",
+          "myophonus caerulus"
+        ],
+        "forktail (enicurus)": [
+          "forktail_sp"
+        ],
+        "white-crowned forktail (enicurus leschenaulti)": [
+          "white_crowned_forktail",
+          "enicurus leschenaulti"
+        ],
+        "white-tailed robin (myiomela leucura)": [
+          "white_tailed_robin"
+        ],
+        "red-throated alethe (chamaetylas poliophrys)": [
+          "alethe poliophrys"
+        ],
+        "scrub robins (cercotrichas)": [
+          "cercotrichus sp"
+        ],
+        "madagascar magpie-robin (copsychus albospecularis)": [
+          "copsychus albospecularis"
+        ],
+        "white-rumped shama (copsychus malabaricus)": [
+          "copsychus malabaricus"
+        ],
+        "oriental magpie-robin (copsychus saularis)": [
+          "copsychus saularis"
+        ],
+        "madagascan magpie-robin (copsychus albospecularis)": [
+          "cospsychus albospecularis"
+        ],
+        "archer's robin-chat (cossypha archeri)": [
+          "cossypha archeri"
+        ],
+        "blue-and-white flycatcher (cyanoptila cyanomelana)": [
+          "cyanoptila cyanomelana"
+        ],
+        "hill blue flycatcher (cyornis banyumas)": [
+          "cyornis banyumas"
+        ],
+        "white-eyed slaty flycatcher (melaenornis fischeri)": [
+          "dioptrornis fischeri"
+        ],
+        "slaty-backed forktail (enicurus schistaceus)": [
+          "enicurus schistaceus"
+        ],
+        "siberian blue robin (larvivora cyane)": [
+          "luscinia cyane",
+          "erithacus cyane"
+        ],
+        "mugimaki flycatcher (ficedula mugimaki)": [
+          "ficedula mugimaki"
+        ],
+        "slaty-blue flycatcher (ficedula tricolor)": [
+          "ficedula tricolor"
+        ],
+        "yellow-eyed black-flycatcher (melaenornis ardesiacus)": [
+          "melaenornis ardesiacus"
+        ],
+        "southern black-flycatcher (melaenornis pammelaina)": [
+          "melaenornis pammelaina"
+        ],
+        "old world flycatchers (muscicapidae)": [
+          "muscicapidae"
+        ],
+        "blue whistling-thrush (myophonus caeruleus)": [
+          "myiophoneus caeruleus",
+          "myophonus caeruleus"
+        ],
+        "javan whistling thrush (myophonus glaucinus)": [
+          "myiophoneus glaucinus"
+        ],
+        "shiny whistling-thrush (myophonus melanurus)": [
+          "myiophoneus melanurus"
+        ],
+        "rufous-vented niltava (niltava sumatrana)": [
+          "niltava sumatrana"
+        ],
+        "wheatears (oenanthe)": [
+          "onenanthe sp"
+        ],
+        "white-starred robin (pogonocichla stellata)": [
+          "pogonocichla stellata"
+        ],
+        "réunion stonechat (saxicola tectes)": [
+          "saxicola tectes"
+        ],
+        "iringa akalat (sheppardia lowei)": [
+          "sheppardia lowei"
+        ]
+      },
+      "Timaliidae": {
+        "golden babbler (cyanoderma chrysaeum)": [
+          "golden_babbler"
+        ],
+        "large scimitar babbler (erythrogenys hypoleucos)": [
+          "large_scimitar_babbler"
+        ],
+        "spot-breasted scimitar babbler (erythrogenys mcclellandi)": [
+          "pomatorhinus mcclellandi"
+        ]
+      },
+      "Stenostiridae": {
+        "grey-headed canary-flycatcher (culicicapa ceylonensis)": [
+          "grey_headed_canary_flycatcher"
+        ]
+      },
+      "Acrocephalidae": {
+        "african reed warbler (acrocephalus baeticatus)": [
+          "acrocephalus baeticatus"
+        ],
+        "thick-billed warbler (arundinax aedon)": [
+          "iduna aedon"
+        ]
+      },
+      "Pycnonotidae": {
+        "grey-cheeked bulbul (alophoixus bres)": [
+          "alophoixus bres"
+        ],
+        "slender-billed greenbul (stelgidillas gracilirostris)": [
+          "andropadus gracilirostris"
+        ],
+        "yellow-whiskered greenbul (eurillas latirostris)": [
+          "andropadus latirostris"
+        ],
+        "little greenbul (eurillas virens)": [
+          "andropadus virens"
+        ]
+      },
+      "Buphagidae": {
+        "oxpeckers (buphagus)": [
+          "buphagus sp"
+        ]
+      },
+      "Furnariidae": {
+        "white-winged cinclodes (cinclodes atacamensis)": [
+          "cinclodes atacamensis"
+        ],
+        "buff-winged cinclodes (cinclodes fuscus)": [
+          "cinclodes fuscus"
+        ],
+        "cinclodes (cinclodes)": [
+          "cinclodes sp"
+        ]
+      },
+      "Cisticolidae": {
+        "madagascar cisticola (cisticola cherina)": [
+          "cisticola cherina"
+        ]
+      },
+      "Dicaeidae": {
+        "orange-bellied flowerpecker (dicaeum trigonostigma)": [
+          "dicaeum trigonostigma"
+        ]
+      },
+      "Dicruridae": {
+        "fork-tailed drongo (dicrurus adsimilis)": [
+          "dicrurus adsimilis"
+        ]
+      },
+      "Laniidae": {
+        "northern white-crowned shrike (eurocephalus ruppelli)": [
+          "eurocephalus rueppelli"
+        ],
+        "southern fiscal (lanius collaris)": [
+          "lanius collaris"
+        ]
+      },
+      "Vangidae": {
+        "helmet vanga (euryceros prevostii)": [
+          "euryceros prevostii"
+        ],
+        "crossley's vanga (mystacornis crossleyi)": [
+          "mystacornis crossleyi"
+        ]
+      },
+      "Formicariidae": {
+        "black-faced antthrush (formicarius analis)": [
+          "formicarius analis"
+        ],
+        "rufous-capped antthrush (formicarius colma)": [
+          "formicarius colma"
+        ]
+      },
+      "Grallariidae": {
+        "stripe-headed antpitta (grallaria andicolus)": [
+          "grallaria andicolus"
+        ]
+      },
+      "Scotocercidae": {
+        "neumann's warbler (urosphena neumanni)": [
+          "hemitesia neumanni"
+        ]
+      },
+      "Sturnidae": {
+        "greater blue-eared starling (lamprotornis chalybaeus)": [
+          "lamprotornis chalybaeus"
+        ],
+        "hildebrandt's starling (lamprotornis hildebrandti)": [
+          "lamprotornis hildebrandti"
+        ],
+        "superb starling (lamprotornis superbus)": [
+          "lamprotornis superbus"
+        ],
+        "common myna (acridotheres tristis)": [
+          "myna"
+        ],
+        "european starling (sturnus vulgaris)": [
+          "starling"
+        ]
+      },
+      "Malaconotidae": {
+        "slate-colored boubou (laniarius funebris)": [
+          "lanarius funebris"
+        ]
+      },
+      "Macrosphenidae": {
+        "moustached grass-warbler (melocichla mentalis)": [
+          "melocichla mentalis"
+        ]
+      },
+      "Alaudidae": {
+        "larks (mirafra)": [
+          "mirafra sp"
+        ]
+      },
+      "Icteridae": {
+        "giant cowbird (molothrus oryzivorus)": [
+          "molothrus oryzivorus"
+        ]
+      },
+      "Motacillidae": {
+        "western yellow wagtail (motacilla flava)": [
+          "motacilla flava"
+        ],
+        "madagascar wagtail (motacilla flaviventris)": [
+          "motacilla flaviventris"
+        ],
+        "pipit (anthus)": [
+          "pipit"
+        ]
+      },
+      "Nectariniidae": {
+        "blue-throated brown sunbird (cyanomitra cyanolaema)": [
+          "nectarinia cyanolaema"
+        ]
+      },
+      "Estrildidae": {
+        "gray-headed oliveback (delacourella capistrata)": [
+          "nesocharis capistrata"
+        ]
+      },
+      "Bernieridae": {
+        "white-throated oxylabes (oxylabes madagascariensis)": [
+          "oxylabes madagascariensis"
+        ],
+        "appert's tetraka (xanthomixis apperti)": [
+          "phyllastrephus apperti"
+        ]
+      },
+      "Ploceidae": {
+        "strange weaver (ploceus alienus)": [
+          "ploceus alienus"
+        ],
+        "baglafecht weaver (ploceus baglafecht)": [
+          "ploceus baglafecht"
+        ]
+      },
+      "Monarchidae": {
+        "madagascar paradise-flycatcher (terpsiphone mutata)": [
+          "terpsiphone mutata"
+        ]
+      },
+      "Meliphagidae": {
+        "new zealand bellbird (anthornis melanura)": [
+          "bellbird"
+        ],
+        "tui (prosthemadera novaeseelandiae)": [
+          "tui"
+        ]
+      },
+      "Rhipiduridae": {
+        "fantails (rhipidura)": [
+          "fantail"
+        ]
+      },
+      "Petroicidae": {
+        "new zealand robin (petroica australis)": [
+          "robin"
+        ],
+        "tomtit (petroica macrocephala)": [
+          "tomtit"
+        ]
+      },
+      "Callaeidae": {
+        "saddlebacks (philesturnus)": [
+          "tieke"
+        ]
+      },
+      "Mohouidae": {
+        "whitehead (mohoua albicilla)": [
+          "whitehead"
+        ],
+        "yellowhead (mohoua ochrocephala)": [
+          "mohua"
+        ]
+      },
+      "Fringillidae": {
+        "common chaffinch (fringilla coelebs)": [
+          "chaffinch"
+        ],
+        "greenfinch (chloris chloris)": [
+          "greenfinch"
+        ],
+        "common redpoll (acanthis flammea)": [
+          "redpoll"
+        ],
+        "european goldfinch (carduelis carduelis)": [
+          "goldfinch"
+        ]
+      },
+      "Prunellidae": {
+        "dunnock (prunella modularis)": [
+          "dunnock"
+        ]
+      },
+      "Acanthisittidae": {
+        "rifleman (acanthisitta chloris)": [
+          "rifleman"
+        ]
+      },
+      "Zosteropidae": {
+        "silvereye (zosterops lateralis)": [
+          "silvereye"
+        ]
+      },
+      "Emberizidae": {
+        "yellowhammer (emberiza citrinella)": [
+          "yellowhammer"
+        ]
+      },
+      "Artamidae": {
+        "australian magpie (gymnorhina tibicen)": [
+          "magpie"
+        ]
+      },
+      "Certhiidae": {
+        "brown creeper (certhia americana)": [
+          "brown_creeper"
+        ]
+      },
+      "Acanthizidae": {
+        "grey warbler (gerygone igata)": [
+          "grey_warbler"
+        ]
+      },
+      "Passeridae": {
+        "house sparrow (passer domesticus)": [
+          "sparrow"
+        ]
+      },
+      "Hirundinidae": {
+        "welcome swallow (hirundo neoxena)": [
+          "swallow"
+        ]
+      },
+      "Locustellidae": {
+        "new zealand fernbird (bowdleria punctata)": [
+          "fernbird"
+        ]
+      }
+    },
+    "Galliformes": {
+      "Phasianidae": {
+        "domestic chicken (gallus gallus domesticus)": [
+          "chicken"
+        ],
+        "wild turkey (meleagris gallopavo)": [
+          "wild turkey",
+          "meleagris gallopavo"
+        ],
+        "grouse (phasianidae)": [
+          "grouse"
+        ],
+        "turkey (meleagris gallopavo)": [
+          "turkey"
+        ],
+        "rooster (gallus gallus domesticus)": [
+          "rooster"
+        ],
+        "dusky grouse (dendragapus obscurus)": [
+          "dendragapus obscurus"
+        ],
+        "crested argus (rheinardia ocellata)": [
+          "crested_argus"
+        ],
+        "gray peacock-pheasant (polyplectron bicalcaratum)": [
+          "grey_peacock_pheasant"
+        ],
+        "red junglefowl (gallus gallus)": [
+          "gallus gallus",
+          "red_junglefowl"
+        ],
+        "silver pheasant (lophura nycthemera)": [
+          "silver_pheasant",
+          "lophura nycthemera"
+        ],
+        "partridge (phasianidae)": [
+          "unidentified_partridge"
+        ],
+        "pheasant (phasianidae)": [
+          "unidentified_pheasant"
+        ],
+        "red-legged partridge (alectoris rufa)": [
+          "alectoris rufa"
+        ],
+        "bar-backed partridge (arborophila brunneopectus)": [
+          "arborophila brunneopectus"
+        ],
+        "red-billed partridge (arborophila rubrirostris)": [
+          "arborophila rubrirostris"
+        ],
+        "rufous-throated partridge (arborophila rufogularis)": [
+          "arborophila rufogularis"
+        ],
+        "partridges (arborophila)": [
+          "arborophila sp"
+        ],
+        "great argus (argusianus argus)": [
+          "argusianus argus"
+        ],
+        "mountain bamboo-partridge (bambusicola fytchii)": [
+          "bamusicola fytchii"
+        ],
+        "ferruginous partridge (caloperdix oculeus)": [
+          "caloperdix oculea"
+        ],
+        "harlequin quail (coturnix delegorguei)": [
+          "coturnix delegorguei"
+        ],
+        "crested francolin (ortygornis sephaena)": [
+          "dendroperdix sephaena"
+        ],
+        "grey-winged francolin (scleroptila afra)": [
+          "francolinus africanus"
+        ],
+        "handsome francolin (pternistis nobilis)": [
+          "francolinus nobilis"
+        ],
+        "francolins (francolinus)": [
+          "cn-francolins",
+          "francolinus sp"
+        ],
+        "siamese fireback (lophura diardi)": [
+          "lophura diardi"
+        ],
+        "crestless fireback (lophura erythrophthalma)": [
+          "lophura erythrophthalma"
+        ],
+        "crested fireback (lophura ignita)": [
+          "lophura ignita"
+        ],
+        "salvadori's pheasant (lophura inornata)": [
+          "lophura inornata"
+        ],
+        "gallopheasants (lophura)": [
+          "lophura sp"
+        ],
+        "ocellated turkey (meleagris ocellata)": [
+          "meleagris ocellata",
+          "meleagris ocellote"
+        ],
+        "grey peacock-pheasant (polyplectron bicalcaratum)": [
+          "polyplectron bicalcaratum"
+        ],
+        "bronze-tailed peacock-pheasant (polyplectron chalcurum)": [
+          "polyplectron chalcurum"
+        ],
+        "hildebrandt's francolin (pternistis hildebrandti)": [
+          "pternistis hildebrandti"
+        ],
+        "yellow-necked francolin (pternistis leucoscepus)": [
+          "pternistis leucoscepus"
+        ],
+        "quails (phasianidae)": [
+          "quail"
+        ],
+        "crested partridge (rollulus rouloul)": [
+          "rollulus rouloul"
+        ],
+        "forest partridges (xenoperdix)": [
+          "xenoperdix obscurata"
+        ],
+        "udzungwa partridge (xenoperdix udzungwensis)": [
+          "xenoperdix udzungwensis"
+        ],
+        "common pheasant (phasianus colchicus)": [
+          "pheasant"
+        ],
+        "brown quail (synoicus ypsilophorus)": [
+          "quail_brown"
+        ],
+        "chicken (gallus gallus domesticus)": [
+          "chicken"
+        ]
+      },
+      "Megapodiidae": {
+        "megapode (megapodiidae)": [
+          "megapode"
+        ]
+      },
+      "Odontophoridae": {
+        "california quail (callipepla californica)": [
+          "callipepla californica",
+          "quail_california"
+        ],
+        "wood-quails (odontophorus)": [
+          "odontophorus"
+        ],
+        "stripe-faced wood-quail (odontophorus balliviani)": [
+          "odontophorus balliviani"
+        ],
+        "rufous-fronted wood-quail (odontophorus erythrops)": [
+          "odontophorus erythrops"
+        ],
+        "marbled wood-quail (odontophorus gujanensis)": [
+          "odontophorus gujanensis"
+        ]
+      },
+      "Cracidae": {
+        "crestless curassow (mitu tomentosum)": [
+          "crestless_curassow",
+          "mitu tomentosa"
+        ],
+        "salvin's currasow (mitu salvini)": [
+          "salvins_curassow"
+        ],
+        "spix's guan (penelope jacquacu)": [
+          "spixs_guan",
+          "penelope jacquacu"
+        ],
+        "white-browed guan (penelope jacucaca)": [
+          "white-browed_guan"
+        ],
+        "plain chachalaca (ortalis vetula)": [
+          "ortalis vetula",
+          "chachalacha"
+        ],
+        "black curassow (crax alector)": [
+          "crax alector"
+        ],
+        "great curassow (crax rubra)": [
+          "crax rubra"
+        ],
+        "salvin's curassow (mitu salvini)": [
+          "mitu salvini"
+        ],
+        "razor-billed curassow (mitu tuberosum)": [
+          "mitu tuberosum"
+        ],
+        "nocturnal curassow (nothocrax urumutum)": [
+          "nothocrax urumutum"
+        ],
+        "speckled chachalaca (ortalis guttata)": [
+          "ortalis guttata"
+        ],
+        "chacalacas (ortalis)": [
+          "ortalis sp"
+        ],
+        "crested guan (penelope purpurascens)": [
+          "penelope purpurascens"
+        ],
+        "rusty-margined guan (penelope superciliaris)": [
+          "penelope superciliaris"
+        ],
+        "blue-throated piping-guan (pipile cumanensis)": [
+          "pipile cumanensis"
+        ],
+        "trinidad piping-guan (pipile pipile)": [
+          "pipile pipile"
+        ]
+      },
+      "Numididae": {
+        "guinea fowl (numididae)": [
+          "guineafowl"
+        ],
+        "vulturine guineafowl (acryllium vulturinum)": [
+          "acryllium vulturinum"
+        ],
+        "crested guineafowl (guttera pucherani)": [
+          "guttera pucherani"
+        ],
+        "helmeted guineafowl (numida meleagris)": [
+          "helmeted_guineafowl",
+          "numida meleagris"
+        ],
+        "guineafowl (numididae)": [
+          "guineafowl",
+          "numididae"
+        ]
+      }
+    },
+    "Accipitriformes": {
+      "Accipitridae": {
+        "hawk (accipitridae)": [
+          "hawk"
+        ],
+        "acciptirids (accipitridae)": [
+          "unidentified accipitrid"
+        ],
+        "vulture (accipitridae)": [
+          "vulture"
+        ],
+        "crested serpent eagle (spilornis cheela)": [
+          "crested_serpent_eagle"
+        ],
+        "mountain hawk-eagle (nisaetus nipalensis)": [
+          "mountain_hawk_eagle",
+          "nisaetus nipalensis"
+        ],
+        "madagascar sparrowhawk (accipiter madagascariensis)": [
+          "accipiter madagascariensis"
+        ],
+        "black goshawk (accipiter melanoleucus)": [
+          "accipiter melanoleucus"
+        ],
+        "eagle (accipitridae)": [
+          "aguila sp",
+          "aguila"
+        ],
+        "imperial eagle (aquila heliaca)": [
+          "aquila heliaca"
+        ],
+        "tawny eagle (aquila rapax)": [
+          "aquila rapax"
+        ],
+        "gray-faced buzzard (butastur indicus)": [
+          "butastur indicus"
+        ],
+        "ridgway's hawk (buteo ridgwayi)": [
+          "buteo urubitinga ridgwayi"
+        ],
+        "great black hawk (buteogallus urubitinga)": [
+          "buteogallus urobitinga",
+          "buteogallus urubitinga"
+        ],
+        "hen harrier (circus cyaneus)": [
+          "circus cyaneus"
+        ],
+        "madagascar serpent-eagle (eutriorchis astur)": [
+          "eutriorchis astur"
+        ],
+        "madagascar fish-eagle (haliaeetus vociferoides)": [
+          "haliaeetus vociferoides"
+        ],
+        "harpy eagle (harpia harpyja)": [
+          "harpia harpyja"
+        ],
+        "solitary eagle (buteogallus solitarius)": [
+          "harpyhaliaetus solitarius"
+        ],
+        "eastern chanting-goshawk (melierax poliopterus)": [
+          "melierax poliopterus"
+        ],
+        "crested eagle (morphnus guianensis)": [
+          "morphnus guianensis"
+        ],
+        "wallace's hawk-eagle (nisaetus nanus)": [
+          "nisaetus nanus"
+        ],
+        "oriental honey-buzzard (pernis ptilorhynchus)": [
+          "pernis ptilorhynchus"
+        ],
+        "roadside hawk (rupornis magnirostris)": [
+          "rupornis magnirostris"
+        ],
+        "crested serpent-eagle (spilornis cheela)": [
+          "spilornis cheela"
+        ],
+        "ornate hawk-eagle (spizaetus ornatus)": [
+          "spizaetus ornatus"
+        ],
+        "crowned eagle (stephanoaetus coronatus)": [
+          "stephanoaetus coronatus"
+        ],
+        "swamp harrier (circus approximans)": [
+          "harrier"
+        ],
+        "white-backed vulture (gyps africanus)": [
+          "gyps africanus"
+        ],
+        "lappet-faced vulture (torgos tracheliotos)": [
+          "torgos tracheliotos"
+        ]
+      },
+      "Sagittariidae": {
+        "secretarybird (sagittarius serpentarius)": [
+          "secretarybird",
+          "sagittarius serpentarius"
+        ],
+        "secretary bird (sagittarius serpentarius)": [
+          "secretarybird"
+        ]
+      }
+    },
+    "Caprimulgiformes": {
+      "Trochilidae": {
+        "hummingbird (trochilidae)": [
+          "hummingbird"
+        ],
+        "phaetornis hummingbirds (phaethornis)": [
+          "phaetornis sp"
+        ]
+      },
+      "Caprimulgidae": {
+        "nightjar (caprimulgidae)": [
+          "unknown_nightjar"
+        ],
+        "caprimulgus nightjars (caprimulgus)": [
+          "caprimulgus sp"
+        ],
+        "nightjar (caprimulgus europaeus)": [
+          "nightjar"
+        ],
+        "common pauraque (nyctidromus albicollis)": [
+          "nyctidromus albicollis"
+        ],
+        "nightjars (caprimulgidae)": [
+          "unknown caprimulgidae"
+        ]
+      },
+      "Apodidae": {
+        "cave swiftlet (collocalia linchi)": [
+          "collocalia linchi"
+        ]
+      }
+    },
+    "Strigiformes": {
+      "Unknown Family": {
+        "owl (strigiformes)": [
+          "owl",
+          "unidentified_owl",
+          "cn-owls"
+        ]
+      },
+      "Strigidae": {
+        "barred owl (strix varia)": [
+          "barred_owl"
+        ],
+        "burrowing owl (athene cunicularia)": [
+          "burrowing_owl"
+        ],
+        "short-eared owl (asio flammeus)": [
+          "short-eared_owl"
+        ],
+        "brown wood owl (strix leptogrammica)": [
+          "brown_wood_owl"
+        ],
+        "madagascar owl (asio madagascariensis)": [
+          "asio madagascariensis"
+        ],
+        "horned owls and eagle-owls (bubo)": [
+          "bubo sp"
+        ],
+        "mountain scops-owl (otus spilocephalus)": [
+          "otus spilocephalus"
+        ],
+        "typical owls (strigidae)": [
+          "strigidae"
+        ],
+        "morepork (ninox novaeseelandiae novaeseelandiae)": [
+          "morepork"
+        ]
+      },
+      "Tytonidae": {
+        "barn owl (tyto alba)": [
+          "tyto alba"
+        ]
+      }
+    },
+    "Piciformes": {
+      "Picidae": {
+        "woodpecker (picidae)": [
+          "woodpecker"
+        ],
+        "lesser yellownape (picus chlorolophus)": [
+          "lesser_yellownape"
+        ],
+        "red-collared woodpecker (picus rabieri)": [
+          "red_collared_woodpecker"
+        ],
+        "eurasian wryneck (jynx torquilla)": [
+          "jynx torquilla"
+        ],
+        "olive woodpecker (chloropicus griseocephalus)": [
+          "mesopicos griseocephalus"
+        ],
+        "northern flicker (colaptes auratus)": [
+          "northern_flicker"
+        ]
+      },
+      "Ramphastidae": {
+        "curl-crested aracari (pteroglossus beauharnaisii)": [
+          "pteroglossus beauharnaesii"
+        ],
+        "white-throated toucan (ramphastos tucanus)": [
+          "ramphastos tucanus"
+        ]
+      }
+    },
+    "Falconiformes": {
+      "Falconidae": {
+        "american kestrel (falco sparverius)": [
+          "american_kestrel"
+        ],
+        "kestrel (falco tinnunculus)": [
+          "kestrel"
+        ],
+        "southern caracara (caracara plancus)": [
+          "caracara plancus"
+        ],
+        "black caracara (daptrius ater)": [
+          "daptrius ater"
+        ],
+        "falcons (falco)": [
+          "falcon"
+        ],
+        "forest falcons (micrastur)": [
+          "micrastur sp"
+        ],
+        "new zealand falcon (falco novaeseelandiae)": [
+          "nz_falcon"
+        ]
+      }
+    },
+    "Charadriiformes": {
+      "Laridae": {
+        "brown noddy (anous stolidus)": [
+          "brown_noddy"
+        ],
+        "black-backed gull (larus fuscus)": [
+          "black_backed_gull"
+        ],
+        "black-fronted tern (chlidonias albostriatus)": [
+          "black_fronted_tern"
+        ],
+        "black-billed gull (chroicocephalus bulleri)": [
+          "black_billed_gull"
+        ]
+      },
+      "Scolopacidae": {
+        "eurasian woodcock (scolopax rusticola)": [
+          "eurasian_woodcock",
+          "scolopax rusticola"
+        ]
+      },
+      "Burhinidae": {
+        "spotted thick-knee (burhinus capensis)": [
+          "burhinus capensis"
+        ]
+      },
+      "Charadriidae": {
+        "pied lapwing (vanellus cayanus)": [
+          "hoploxypterus cayanus",
+          "haploxypterus cayanus"
+        ],
+        "crowned lapwing (vanellus coronatus)": [
+          "vanellus coronatus"
+        ],
+        "double-banded plover (charadrius bicinctus)": [
+          "banded_dotterel"
+        ],
+        "plover (charadriidae)": [
+          "plover"
+        ],
+        "masked lapwing (vanellus miles)": [
+          "spurwing_plover"
+        ],
+        "wrybill (anarhynchus frontalis)": [
+          "wrybill"
+        ],
+        "shore plover (thinornis novaeseelandiae)": [
+          "shore_plover"
+        ]
+      },
+      "Haematopodidae": {
+        "variable oystercatcher (haematopus unicolor)": [
+          "oystercatcher"
+        ]
+      },
+      "Recurvirostridae": {
+        "stilt (himantopus)": [
+          "stilt"
+        ]
+      }
+    },
+    "Columbiformes": {
+      "Columbidae": {
+        "dove (columbidae)": [
+          "dove",
+          "paloma"
+        ],
+        "nicobar pigeon (caloenas nicobarica)": [
+          "nicobar_pigeon"
+        ],
+        "pigeon (columbidae)": [
+          "pigeon"
+        ],
+        "white-winged dove (zenaida asiatica)": [
+          "white-winged_dove"
+        ],
+        "mourning dove (zenaida macroura)": [
+          "zenaida macroura"
+        ],
+        "barred cuckoo-dove (macropygia unchall)": [
+          "barred_cuckoo_dove"
+        ],
+        "emerald dove (chalcophaps indica)": [
+          "emerald_dove"
+        ],
+        "mountain imperial pigeon (ducula badia)": [
+          "mountain_imperial_pigeon"
+        ],
+        "asian emerald dove (chalcophaps indica)": [
+          "chalcophaps indica"
+        ],
+        "blue ground-dove (claravis pretiosa)": [
+          "claravis pretiosa"
+        ],
+        "rameron pigeon (columba arquatrix)": [
+          "columba arquatrix"
+        ],
+        "lemon dove (columba larvata)": [
+          "columba larvata"
+        ],
+        "ruddy ground dove (columbina talpacoti)": [
+          "columbina talpacoti"
+        ],
+        "ruddy quail-dove (geotrygon montana)": [
+          "geotrygon montana"
+        ],
+        "sapphire quail-dove (geotrygon saphirina)": [
+          "geotrygon saphirina"
+        ],
+        "geotrygon doves (geotrygon)": [
+          "geotrygon sp"
+        ],
+        "gray-headed dove (leptotila plumbeiceps)": [
+          "leptotila plumbeiceps"
+        ],
+        "gray-fronted dove (leptotila rufaxilla)": [
+          "leptotila rufaxilla"
+        ],
+        "leptotila doves (leptotila)": [
+          "leptotila sp"
+        ],
+        "white-tipped dove (leptotila verreauxi)": [
+          "leptotila verreauxi"
+        ],
+        "malagasy turtle dove (streptopelia picturata)": [
+          "nesoenas picturata"
+        ],
+        "ring-necked dove (streptopelia capicola)": [
+          "streptopilia capicola",
+          "streptopelia capicola"
+        ],
+        "dusky turtle dove (streptopelia lugens)": [
+          "streptopelia lugens"
+        ],
+        "madagascar turtle-dove (streptopelia picturata)": [
+          "streptopelia picturata"
+        ],
+        "laughing dove (streptopelia senegalensis)": [
+          "streptopilia senegalensis"
+        ],
+        "emerald-spotted wood dove (turtur chalcospilos)": [
+          "turtur calcospilos"
+        ],
+        "tambourine dove (turtur tympanistria)": [
+          "turtur tympanistria"
+        ],
+        "doves (columbidae)": [
+          "unknown dove"
+        ],
+        "new zealand pigeon (hemiphaga novaeseelandiae)": [
+          "kereru"
+        ],
+        "spotted dove (streptopelia chinensis)": [
+          "spotted_dove"
+        ],
+        "pigeons and doves (columbidae)": [
+          "columbidae"
+        ]
+      }
+    },
+    "Pelecaniformes": {
+      "Ardeidae": {
+        "great blue heron (ardea herodias)": [
+          "great_blue_heron",
+          "heron"
+        ],
+        "green heron (butorides virescens)": [
+          "green_heron"
+        ],
+        "yellow-crowned night heron (nyctanassa violacea)": [
+          "yellow-crowned_night_heron"
+        ],
+        "fasciated tiger-heron (tigrisoma fasciatum)": [
+          "fasciated_tiger-heron"
+        ],
+        "striated heron (butorides striata)": [
+          "butorides striata",
+          "striated_heron"
+        ],
+        "agami heron (agamia agami)": [
+          "agamia agami"
+        ],
+        "great egret (ardea alba)": [
+          "ardea alba"
+        ],
+        "cocoi heron (ardea cocoi)": [
+          "ardea cocoi"
+        ],
+        "black-headed heron (ardea melanocephala)": [
+          "ardea melanocephala"
+        ],
+        "indian pond heron (ardeola grayii)": [
+          "areola grayii"
+        ],
+        "cattle egret (bubulcus ibis)": [
+          "bubulcus ibis"
+        ],
+        "boat-billed heron (cochlearius cochlearius)": [
+          "cochlearius cochlearius"
+        ],
+        "snowy egret (egretta thula)": [
+          "egretta thula"
+        ],
+        "yellow-crowned night-heron (nyctanassa violacea)": [
+          "nyctanassa violacea"
+        ],
+        "capped heron (pilherodius pileatus)": [
+          "pilherodius pileatus",
+          "philerodius pileatus"
+        ],
+        "rufescent tiger-heron (tigrisoma lineatum)": [
+          "tigrisoma lineatum"
+        ],
+        "bare-throated tiger-heron (tigrisoma mexicanum)": [
+          "tigrisoma mexicanum"
+        ],
+        "white-faced heron (egretta novaehollandiae)": [
+          "white_faced_heron"
+        ]
+      },
+      "Threskiornithidae": {
+        "hadeda ibis (bostrychia hagedash)": [
+          "bostrychia hagedash"
+        ],
+        "madagascar ibis (lophotibis cristata)": [
+          "lophotibis cristata"
+        ],
+        "madagascan ibis (lophotibis cristata)": [
+          "lophotibis cristataa"
+        ],
+        "green ibis (mesembrinibis cayennensis)": [
+          "mesembrinibis cayennensis",
+          "mesembrinis cayannensis"
+        ]
+      }
+    },
+    "Procellariiformes": {
+      "Procellariidae": {
+        "petrel (procellariidae)": [
+          "petrel"
+        ],
+        "petrel chick (procellariidae)": [
+          "petrel_chick"
+        ],
+        "shearwater (calonectris)": [
+          "shearwater"
+        ],
+        "fluttering shearwater (puffinus gavia)": [
+          "fluttering_shearwater"
+        ],
+        "grey-faced petrel (pterodroma gouldi)": [
+          "grey_faced_petrol"
+        ]
+      },
+      "Hydrobatidae": {
+        "storm petrel (hydrobates pelagicus)": [
+          "storm_petrel"
+        ]
+      }
+    },
+    "Gruiformes": {
+      "Rallidae": {
+        "rail (rallidae)": [
+          "rail"
+        ],
+        "gray-necked wood-rail (aramides cajaneus)": [
+          "aramides cajanea"
+        ],
+        "gray-cowled wood-rail (aramides cajaneus)": [
+          "aramides cajaneus"
+        ],
+        "buff-banded rail (gallirallus philippensis)": [
+          "banded_rail"
+        ],
+        "australasian swamphen (porphyrio melanotus)": [
+          "pukeko"
+        ],
+        "takahe (porphyrio mantelli)": [
+          "takahe"
+        ],
+        "weka (gallirallus australis)": [
+          "weka"
+        ],
+        "crake (porzana)": [
+          "crake"
+        ],
+        "sora (porzana carolina)": [
+          "sora"
+        ]
+      },
+      "Gruidae": {
+        "blue crane (anthropoides paradiseus)": [
+          "craneblue"
+        ],
+        "grey crowned crane (balearica regulorum)": [
+          "balearica regulorum"
+        ]
+      },
+      "Aramidae": {
+        "limpkin (aramus guarauna)": [
+          "aramus guarauna"
+        ]
+      },
+      "Sarothruridae": {
+        "madagascar wood rail (mentocrex kioloides)": [
+          "canirallus kioloides"
+        ]
+      },
+      "Psophiidae": {
+        "gray-winged trumpeter (psophia crepitans)": [
+          "psophia crepitans"
+        ],
+        "pale-winged trumpeter (psophia leucoptera)": [
+          "psophia leucoptera"
+        ]
+      }
+    },
+    "Tinamiformes": {
+      "Tinamidae": {
+        "great tinamou (tinamus major)": [
+          "tinamus major",
+          "great_tinamou"
+        ],
+        "black-capped tinamou (crypturellus atrocapillus)": [
+          "crypturellus atrocapillus"
+        ],
+        "slaty-breasted tinamou (crypturellus boucardi)": [
+          "crypturellus boucardi"
+        ],
+        "cinereous tinamou (crypturellus cinereus)": [
+          "crypturellus cinereus"
+        ],
+        "thicket tinamou (crypturellus cinnamomeus)": [
+          "crypturellus cinnamomeus"
+        ],
+        "red-legged tinamou (crypturellus erythropus)": [
+          "crypturellus erythropus"
+        ],
+        "bartlett's tinamou (crypturellus bartletti)": [
+          "crypturellus pos bartletti"
+        ],
+        "little tinamou (crypturellus soui)": [
+          "crypturellus soui"
+        ],
+        "tinamou (crypturellus)": [
+          "crypturellus sp"
+        ],
+        "undulated tinamou (crypturellus undulatus)": [
+          "crypturellus undulatus"
+        ],
+        "variegated tinamou (crypturellus variegatus)": [
+          "crypturellus variegatus"
+        ],
+        "crypturellus (crypturellus)": [
+          "crypturelus sp"
+        ],
+        "white-throated tinamou (tinamus guttatus)": [
+          "tinamus guttatus"
+        ],
+        "tinamus tinamous (tinamus)": [
+          "tinamus sp"
+        ],
+        "gray tinamou (tinamus tao)": [
+          "tinamus tao"
+        ]
+      }
+    },
+    "Coraciiformes": {
+      "Momotidae": {
+        "amazonian motmot (momotus momota)": [
+          "momotus momota",
+          "mamotus mamota",
+          "amazonian_motmot"
+        ],
+        "rufous motmot (baryphthengus martii)": [
+          "barypthengus martii"
+        ]
+      },
+      "Brachypteraciidae": {
+        "pitta-like ground-roller (atelornis pittoides)": [
+          "atelornis pittoides"
+        ],
+        "scaly ground-roller (brachypteracias squamiger)": [
+          "brachypteracias squamiger"
+        ],
+        "scaly ground roller (brachypteracias squamiger)": [
+          "geobiastes squamiger"
+        ]
+      },
+      "Alcedinidae": {
+        "sacred kingfisher (todiramphus sanctus)": [
+          "kingfisher"
+        ]
+      }
+    },
+    "Cathartiformes": {
+      "Cathartidae": {
+        "turkey vulture (cathartes aura)": [
+          "turkey_vulture"
+        ],
+        "lesser yellow-headed vulture (cathartes burrovianus)": [
+          "cathartes burrovianus"
+        ],
+        "greater yellow-headed vulture (cathartes melambrotus)": [
+          "cathartes melambrotus"
+        ],
+        "black vulture (coragyps atratus)": [
+          "coragyps atratus"
+        ]
+      }
+    },
+    "Otidiformes": {
+      "Otididae": {
+        "kori bustard (ardeotis kori)": [
+          "ardeotis kori",
+          "koribustard",
+          "bustardkori"
+        ],
+        "ludwig's bustard (neotis ludwigii)": [
+          "bustardludwigs",
+          "neotis ludwigii"
+        ],
+        "white-bellied bustard (eupodotis senegalensis)": [
+          "eupodotis senegalensis"
+        ],
+        "hartlaub's bustard (lissotis hartlaubii)": [
+          "lissotis hartlaubii"
+        ],
+        "black-bellied bustard (lissotis melanogaster)": [
+          "bustardblackbellied",
+          "lissotis melanogaster"
+        ],
+        "buff-crested bustard (eupodotis gindiana)": [
+          "lophotis gindiana"
+        ],
+        "rüppell's bustard (eupodotis rueppelii)": [
+          "eupodotis rueppellii"
+        ],
+        "denham's bustard (neotis denhami denhami)": [
+          "bustarddenhams"
+        ],
+        "red-crested bustard (eupodotis ruficrista)": [
+          "bustardredcrested"
+        ],
+        "white-quilled bustard (eupodotis afraoides)": [
+          "bustardwhitequilled"
+        ]
+      }
+    },
+    "Struthioniformes": {
+      "Struthionidae": {
+        "ostrich (struthio camelus)": [
+          "ostrich"
+        ],
+        "common ostrich (struthio camelus)": [
+          "struthio camelus"
+        ],
+        "ostrich (struthionidae)": [
+          "ostrich"
+        ]
+      }
+    },
+    "Trogoniformes": {
+      "Trogonidae": {
+        "orange-breasted trogon (harpactes oreskios)": [
+          "orange_breasted_trogon"
+        ]
+      }
+    },
+    "Bucerotiformes": {
+      "Bucerotidae": {
+        "rufous-necked hornbill (aceros nipalensis)": [
+          "rufous_necked_hornbill"
+        ],
+        "silvery-cheeked hornbill (bycanistes brevis)": [
+          "bycanistes brevis"
+        ],
+        "von der decken's hornbill (tockus deckeni)": [
+          "tockus deckeni"
+        ],
+        "eastern yellow-billed hornbill (tockus flavirostris)": [
+          "tockus flavirostris"
+        ]
+      },
+      "Bucorvidae": {
+        "southern ground hornbill (bucorvus leadbeateri)": [
+          "southern_ground_hornbill"
+        ]
+      }
+    },
+    "Anseriformes": {
+      "Anatidae": {
+        "egyptian goose (alopochen aegyptiaca)": [
+          "alopochen aegyptiacus",
+          "alopochen aegyptiaca"
+        ],
+        "muscovy duck (cairina moschata)": [
+          "cairina moschata"
+        ],
+        "orinoco goose (oressochen jubatus)": [
+          "neochen jubata"
+        ],
+        "paradise shelduck (tadorna variegata)": [
+          "paradise_duck"
+        ],
+        "brown teal (anas chlorotis)": [
+          "pateke"
+        ],
+        "new zealand swan (cygnus sumnerensis)": [
+          "swan"
+        ],
+        "canada goose (branta canadensis)": [
+          "goose",
+          "canada_goose"
+        ],
+        "grey duck (anas superciliosa superciliosa)": [
+          "grey_duck"
+        ],
+        "mallard (anas platyrhynchos)": [
+          "mallard"
+        ]
+      },
+      "Anhimidae": {
+        "horned screamer (anhima cornuta)": [
+          "anhima cornuta"
+        ]
+      }
+    },
+    "Psittaciformes": {
+      "Psittacidae": {
+        "parakeets (brotogeris)": [
+          "brotogeris sp"
+        ],
+        "yellow-headed parrot (amazona oratrix)": [
+          "sucha cabeza amarilla"
+        ]
+      },
+      "Psittaculidae": {
+        "rosella (platycercus)": [
+          "rosella"
+        ],
+        "parakeet (cyanoramphus)": [
+          "parakeet"
+        ]
+      },
+      "Strigopidae": {
+        "kea (nestor notabilis)": [
+          "kea"
+        ],
+        "kaka (nestor meridionalis)": [
+          "kaka"
+        ]
+      }
+    },
+    "Cuculiformes": {
+      "Cuculidae": {
+        "coral-billed ground-cuckoo (carpococcyx renauldi)": [
+          "carpococcyx renauldi"
+        ],
+        "couas (coua)": [
+          "coua",
+          "coua sp"
+        ],
+        "blue coua (coua caerulea)": [
+          "coua caerulea"
+        ],
+        "red-capped coua (coua ruficeps)": [
+          "coua ruficeps"
+        ],
+        "red-breasted coua (coua serriana)": [
+          "coua serriana"
+        ],
+        "rufous-vented ground-cuckoo (neomorphus geoffroyi)": [
+          "neomorphus geoffroyi"
+        ],
+        "rufous-winged ground-cuckoo (neomorphus rufipennis)": [
+          "neomorphus rufipennis"
+        ],
+        "long-tailed cuckoo (urodynamis taitensis)": [
+          "long_tailed_cuckoo"
+        ]
+      }
+    },
+    "Ciconiiformes": {
+      "Ciconiidae": {
+        "maguari stork (ciconia maguari)": [
+          "ciconia maguari"
+        ]
+      }
+    },
+    "Musophagiformes": {
+      "Musophagidae": {
+        "white-bellied go-away-bird (corythaixoides leucogaster)": [
+          "corythaixoides leucogaster"
+        ],
+        "ross's turaco (musophaga rossae)": [
+          "musophaga rossae"
+        ],
+        "rwenzori turaco (ruwenzorornis johnstoni)": [
+          "ruwenzorornis johnstoni"
+        ],
+        "livingstone's turaco (tauraco livingstonii)": [
+          "tauraco livingstonii"
+        ]
+      }
+    },
+    "Eurypygiformes": {
+      "Eurypygidae": {
+        "sunbittern (eurypyga helias)": [
+          "eurypyga helias"
+        ]
+      }
+    },
+    "Galbuliformes": {
+      "Bucconidae": {
+        "white-fronted nunbird (monasa morphoeus)": [
+          "monasa morphoeus"
+        ]
+      }
+    },
+    "Rheiformes": {
+      "Rheidae": {
+        "greater rhea (rhea americana)": [
+          "rhea americana"
+        ]
+      }
+    },
+    "Apterygiformes": {
+      "Apterygidae": {
+        "kiwi (apteryx)": [
+          "kiwi"
+        ]
+      }
+    },
+    "Sphenisciformes": {
+      "Spheniscidae": {
+        "little blue penguin (eudyptula minor)": [
+          "little_blue_penguin"
+        ],
+        "yellow-eyed penguin (megadyptes antipodes)": [
+          "yellow_eyed_penguin"
+        ],
+        "fiordland crested penguin (eudyptes pachyrhynchus)": [
+          "fiordland_crested_penguin"
+        ]
+      }
+    },
+    "Suliformes": {
+      "Phalacrocoracidae": {
+        "common shag (gulosus aristotelis)": [
+          "shag"
+        ]
+      }
+    },
+    "Pterocliformes": {
+      "Pteroclidae": {
+        "sandgrouse (pteroclidae)": [
+          "pteroclidae"
+        ]
+      }
+    }
+  },
+  "Insecta": {
+    "Unknown Order": {
+      "Unknown Family": {
+        "insect (insecta)": [
+          "insect"
+        ],
+        "insects (insecta)": [
+          "unknown insect",
+          "flying insect"
+        ]
+      }
+    },
+    "Lepidoptera": {
+      "Unknown Family": {
+        "moth (lepidoptera)": [
+          "moth"
+        ],
+        "butterflies (papilionoidea)": [
+          "unknown butterfly"
+        ]
+      }
+    },
+    "Hymenoptera": {
+      "Formicidae": {
+        "ants (formicidae)": [
+          "ants"
+        ]
+      },
+      "Apidae": {
+        "bee (apidae)": [
+          "bee"
+        ]
+      }
+    }
+  },
+  "Reptilia": {
+    "Squamata": {
+      "Unknown Family": {
+        "lizard (squamata)": [
+          "lizard",
+          "unidentified_lizard",
+          "unknown lizard"
+        ],
+        "snake (serpentes)": [
+          "unidentified_snake"
+        ],
+        "snakes (serpentes)": [
+          "snake"
+        ]
+      },
+      "Iguanidae": {
+        "typical iguanas (iguana)": [
+          "iguana"
+        ],
+        "common green iguana (iguana iguana)": [
+          "common_green_iguana"
+        ]
+      },
+      "Varanidae": {
+        "monitor lizard (varanidae)": [
+          "monitor_lizard"
+        ],
+        "bengal monitor (varanus bengalensis)": [
+          "bengal_monitor"
+        ],
+        "common water monitor (varanus salvator)": [
+          "varanus salvator"
+        ],
+        "monitor lizards (varanus)": [
+          "varanus sp"
+        ],
+        "lace monitor (varanus varius)": [
+          "goanna"
+        ]
+      },
+      "Scincidae": {
+        "skink (plestiodon)": [
+          "skink"
+        ],
+        "skink (scincidae)": [
+          "skink"
+        ],
+        "common five-lined skink (plestiodon fasciatus)": [
+          "common_five-lined_skink"
+        ]
+      },
+      "Teiidae": {
+        "gold tegu (tupinambis teguixin)": [
+          "tupinambis teguixin"
+        ]
+      },
+      "Colubridae": {
+        "butler's gartersnake (thamnophis butleri)": [
+          "butler's_gartersnake"
+        ],
+        "dekay's brownsnake (storeria dekayi)": [
+          "dekay's_brownsnake"
+        ],
+        "eastern gartersnake (thamnophis sirtalis sirtalis)": [
+          "eastern_gartersnake"
+        ],
+        "eastern hog-nosed snake (heterodon platirhinos)": [
+          "eastern_hog-nosed_snake"
+        ],
+        "eastern milksnake (lampropeltis triangulum)": [
+          "eastern_milksnake"
+        ],
+        "eastern racer snake (coluber constrictor)": [
+          "eastern_racer_snake"
+        ],
+        "eastern ribbon snake (thamnophis saurita saurita)": [
+          "eastern_ribbonsnake"
+        ],
+        "gray ratsnake (pantherophis spiloides)": [
+          "gray_ratsnake"
+        ],
+        "kirtland's snake (clonophis kirtlandii)": [
+          "kirtland's_snake"
+        ],
+        "northern watersnake (nerodia sipedon sipedon)": [
+          "northern_watersnake"
+        ],
+        "plains gartersnake (thamnophis radix)": [
+          "plains_gartersnake"
+        ],
+        "red-bellied snake (storeria occipitomaculata)": [
+          "red-bellied_snake"
+        ],
+        "smooth greensnake (opheodrys vernalis)": [
+          "smooth_greensnake"
+        ]
+      },
+      "Viperidae": {
+        "eastern massasauga (sistrurus catenatus)": [
+          "eastern_massasauga"
+        ]
+      }
+    },
+    "Testudines": {
+      "Unknown Family": {
+        "sea turtle (chelonioidea)": [
+          "sea_turtle"
+        ],
+        "turtles (testudines)": [
+          "unknown turtle",
+          "unknown_turtle",
+          "unidentified_turtles"
+        ]
+      },
+      "Testudinidae": {
+        "tortoises (testudinidae)": [
+          "tortoise"
+        ],
+        "red-footed tortoise (chelonoidis carbonarius)": [
+          "chelonoidis carbonaria"
+        ],
+        "leopard tortoise (stigmochelys pardalis)": [
+          "stigmochelys pardalis"
+        ],
+        "tortoise (testudinidae)": [
+          "tortoise"
+        ]
+      },
+      "Emydidae": {
+        "painted turtle (chrysemys picta)": [
+          "painted_turtle"
+        ]
+      },
+      "Chelydridae": {
+        "snapping turtle (chelydra serpentina)": [
+          "snapping_turtle"
+        ]
+      }
+    },
+    "Unknown Order": {
+      "Unknown Family": {
+        "reptile (reptilia)": [
+          "unknown_reptile",
+          "reptile"
+        ],
+        "reptiles and amphibians (reptilia)": [
+          "reptilesamphibians"
+        ],
+        "reptiles (reptilia)": [
+          "reptilesamphibians",
+          "reptiles"
+        ]
+      }
+    },
+    "Crocodylia": {
+      "Crocodylidae": {
+        "nile crocodile (crocodylus niloticus)": [
+          "crocodile"
+        ]
+      },
+      "Alligatoridae": {
+        "caimans (paleosuchus)": [
+          "paleosuchus sp"
+        ]
+      }
+    }
+  },
+  "Malacostraca": {
+    "Decapoda": {
+      "Unknown Family": {
+        "crab (brachyura)": [
+          "crab"
+        ]
+      },
+      "Calcinidae": {
+        "hermit crab (calcinus tubularis)": [
+          "hermit_crab"
+        ]
+      }
+    }
+  },
+  "Arachnida": {
+    "Araneae": {
+      "Unknown Family": {
+        "spider (araneae)": [
+          "spider"
+        ],
+        "spiders (araneae)": [
+          "unknown spider"
+        ]
+      }
+    }
+  },
+  "Diplopoda": {
+    "Unknown Order": {
+      "Unknown Family": {
+        "millipede (diplopoda)": [
+          "millipede"
+        ]
+      }
+    }
+  },
+  "Amphibia": {
+    "Anura": {
+      "Ranidae": {
+        "pond frogs (rana)": [
+          "rana sp"
+        ],
+        "american bullfrog (lithobates catesbeianus)": [
+          "american_bullfrog"
+        ],
+        "green frog (lithobates clamitans)": [
+          "green_frog"
+        ],
+        "northern leopard frog (lithobates pipiens)": [
+          "northern_leopard_frog"
+        ]
+      },
+      "Unknown Family": {
+        "frogs (anura)": [
+          "unknown frog"
+        ]
+      },
+      "Bufonidae": {
+        "american toad (anaxyrus americanus)": [
+          "american_toad"
+        ]
+      }
+    }
+  },
+  "Other / Non-wildlife": {
+    "Vehicles": {
+      "Vehicles": [
+        "vehicle",
+        "car",
+        "motorcycle"
+      ]
+    },
+    "Empty": {
+      "Empty": [
+        "empty"
+      ]
+    },
+    "Other": {
+      "Other": [
+        "invertebrate",
+        "reptilesamphibians",
+        "sun",
+        "eye_shine",
+        "other",
+        "misdirected",
+        "foggy weather",
+        "insectspider",
+        "other_animal",
+        "domesticanimal",
+        "vegetation obstruction",
+        "unclassifiable",
+        "insectspiderscorpion"
+      ]
+    },
+    "Camera Problems": {
+      "Camera Problems": [
+        "blurred",
+        "malfunction",
+        "foggy lens",
+        "snow on lens",
+        "ignore",
+        "lens obscured",
+        "tilted",
+        "problem"
+      ]
+    },
+    "Unidentifiable": {
+      "Unidentifiable": [
+        "unidentified_animal",
+        "unknown",
+        "start",
+        "unidentifiable",
+        "unidentified",
+        "end",
+        "unidentified_small_animal"
+      ]
+    },
+    "Fire": {
+      "Fire": [
+        "misfire",
+        "fire"
+      ]
+    }
+  }
+}
