@@ -38,8 +38,8 @@ Clone the repository and set up a virtual environment:
 
 ```bash
 # Clone repo
-git clone https://github.com/AI-EcoNet/animal-dataset-downloader.git
-cd animal-dataset-downloader
+git clone https://github.com/AI-EcoNet/Cameratrap_Image_Downloader.git
+cd Cameratrap_Image_Downloader
 
 # Create virtual environment
 python -m venv venv
